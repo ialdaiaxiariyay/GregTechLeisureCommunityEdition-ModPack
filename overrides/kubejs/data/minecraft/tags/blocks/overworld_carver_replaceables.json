@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:grass_block",
+    "minecraft:diorite",
+    "gtlcecore:titanstone",
+    "gtlcecore:titangrunt",
+    "gtlcecore:iostone",
+    "gtlcecore:ioash",
+    "gtlcecore:ganymedestone",
+    "gtlcecore:ganymedegrunt",
+    "gtlcecore:enceladusstone",
+    "minecraft:snow_block",
+    "gtlcecore:ceresstone",
+    "gtlcecore:ceresgrunt",
+    "gtlcecore:plutostone",
+    "gtlcecore:plutogrunt"
+  ]
+}

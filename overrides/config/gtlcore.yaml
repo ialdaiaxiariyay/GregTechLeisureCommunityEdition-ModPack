@@ -1,0 +1,66 @@
+disableDrift: true
+
+enablePrimitiveVoidOre: false
+
+oreMultiplier: 16
+
+cellType: 16
+
+spacetimePip: 2147483647
+
+durationMultiplier: 1.0
+
+travelStaffCD: 1
+
+# 更大的数值会让界面显示有问题，推荐在样板管理终端管理
+exPatternProvider: 36
+
+# 连锁黑名单,支持通配符*
+blackBlockList:
+  - ae2:cable_bus
+  - minecraft:grass_block
+
+# 是否允许额外超出int部分额外输出, 当出现发包过大时请禁用此选项
+recipeMultiOutput: true
+
+# 最大创建多少个输出来承载配方超出int部分内容
+recipeMultiMax: 8
+
+mobList1:
+  - chicken
+  - rabbit
+  - sheep
+  - cow
+  - horse
+  - pig
+  - donkey
+  - skeleton_horse
+  - iron_golem
+  - wolf
+  - goat
+  - parrot
+  - camel
+  - cat
+  - fox
+  - llama
+  - panda
+  - polar_bear
+
+mobList2:
+  - ghast
+  - zombie
+  - pillager
+  - zombie_villager
+  - skeleton
+  - drowned
+  - witch
+  - spider
+  - creeper
+  - husk
+  - wither_skeleton
+  - blaze
+  - zombified_piglin
+  - slime
+  - vindicator
+  - enderman
+

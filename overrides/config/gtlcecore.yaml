@@ -1,0 +1,52 @@
+DebugMode: false
+
+disableDrift: true
+
+exPatternProvider: 36
+
+blackBlockList:
+  - ae2:cable_bus
+  - minecraft:grass_block
+
+cellType: 4
+
+travelStaffCD: 2
+
+mobList1:
+  - chicken
+  - rabbit
+  - sheep
+  - cow
+  - horse
+  - pig
+  - donkey
+  - skeleton_horse
+  - iron_golem
+  - wolf
+  - goat
+  - parrot
+  - camel
+  - cat
+  - fox
+  - llama
+  - panda
+  - polar_bear
+
+mobList2:
+  - ghast
+  - zombie
+  - pillager
+  - zombie_villager
+  - skeleton
+  - drowned
+  - witch
+  - spider
+  - creeper
+  - husk
+  - wither_skeleton
+  - blaze
+  - zombified_piglin
+  - slime
+  - vindicator
+  - enderman
+
