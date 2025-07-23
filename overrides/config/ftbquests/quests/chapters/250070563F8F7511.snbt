@@ -1137,14 +1137,14 @@
 		{
 			can_repeat: true
 			dependencies: ["4B6F43302E963F5E"]
-			icon: "gtlcore:infinite_cell_component"
+			icon: "gtlcecore:infinite_cell_component"
 			id: "7198356C944E053A"
 			rewards: [
 				{
 					id: "7480CA9E0C881C90"
 					item: {
 						Count: 1
-						id: "gtlcore:super_portable_item_storage_cell"
+						id: "gtlcecore:super_portable_item_storage_cell"
 						tag: {
 							internalCurrentPower: 2000000000
 						}
@@ -1155,7 +1155,7 @@
 					id: "7E40E854D6E1AE44"
 					item: {
 						Count: 1
-						id: "gtlcore:super_portable_fluid_storage_cell"
+						id: "gtlcecore:super_portable_fluid_storage_cell"
 						tag: {
 							internalCurrentPower: 2000000000
 						}

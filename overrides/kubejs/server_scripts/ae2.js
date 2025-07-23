@@ -15,9 +15,9 @@ ServerEvents.recipes((event) => {
     event.remove({ id: "ae2:materials/basiccard" })
     event.remove({ id: "ae2:network/crafting/cpu_crafting_unit" })
     event.remove({ id: "expatternprovider:fishbig" })
-    event.shapeless("gtlcore:item_infinity_cell", ["ae2:item_cell_housing", "gtlcore:infinite_cell_component"])
-    event.shapeless("gtlcore:fluid_infinity_cell", ["ae2:fluid_cell_housing", "gtlcore:infinite_cell_component"])
-    event.shapeless("gtlcore:pattern_modifier", "expatternprovider:pattern_modifier")
+    event.shapeless("gtlcecore:item_infinity_cell", ["ae2:item_cell_housing", "gtlcecore:infinite_cell_component"])
+    event.shapeless("gtlcecore:fluid_infinity_cell", ["ae2:fluid_cell_housing", "gtlcecore:infinite_cell_component"])
+    event.shapeless("gtlcecore:pattern_modifier", "expatternprovider:pattern_modifier")
 
     event.shaped("ae2:creative_energy_cell", [
         "AAA",
@@ -265,14 +265,14 @@ ServerEvents.recipes((event) => {
         .duration(400)
 
     function getCellComponent(index) {
-        return index > 4 ? `gtlcore:cell_component_${4 ** (index - 5)}m` : `ae2:cell_component_${4 ** index}k`
+        return index > 4 ? `gtlcecore:cell_component_${4 ** (index - 5)}m` : `ae2:cell_component_${4 ** index}k`
     }
 
     for (let index = 0; index < 5; index++) {
-        event.shapeless(`gtlcore:${4 ** index}m_storage`, ["ae2:crafting_unit", getCellComponent(index + 5)])
-        event.shapeless(`gtlcore:item_storage_cell_${4 ** index}m`, ["ae2:item_cell_housing", getCellComponent(index + 5)])
-        event.shapeless(`gtlcore:fluid_storage_cell_${4 ** index}m`, ["ae2:fluid_cell_housing", getCellComponent(index + 5)])
-        event.shaped(`gtlcore:item_storage_cell_${4 ** index}m`, [
+        event.shapeless(`gtlcecore:${4 ** index}m_storage`, ["ae2:crafting_unit", getCellComponent(index + 5)])
+        event.shapeless(`gtlcecore:item_storage_cell_${4 ** index}m`, ["ae2:item_cell_housing", getCellComponent(index + 5)])
+        event.shapeless(`gtlcecore:fluid_storage_cell_${4 ** index}m`, ["ae2:fluid_cell_housing", getCellComponent(index + 5)])
+        event.shaped(`gtlcecore:item_storage_cell_${4 ** index}m`, [
             "ABA",
             "BDB",
             "CCC"
@@ -282,7 +282,7 @@ ServerEvents.recipes((event) => {
             C: "minecraft:iron_ingot",
             D: getCellComponent(index + 5)
         })
-        event.shaped(`gtlcore:fluid_storage_cell_${4 ** index}m`, [
+        event.shaped(`gtlcecore:fluid_storage_cell_${4 ** index}m`, [
             "ABA",
             "BDB",
             "CCC"
@@ -303,21 +303,21 @@ ServerEvents.recipes((event) => {
             .duration(200)
     }
 
-    gtr.assembly_line("gtlcore:max_storage")
-        .itemInputs("ae2:crafting_unit", "16x gtlcore:cell_component_256m", "gtceu:data_bank", "16x gtceu:data_orb", "4x #gtceu:circuits/uhv", "4x gtceu:double_red_steel_plate")
+    gtr.assembly_line("gtlcecore:max_storage")
+        .itemInputs("ae2:crafting_unit", "16x gtlcecore:cell_component_256m", "gtceu:data_bank", "16x gtceu:data_orb", "4x #gtceu:circuits/uhv", "4x gtceu:double_red_steel_plate")
         .inputFluids("gtceu:soldering_alloy 576", "gtceu:pcb_coolant 2000")
-        .itemOutputs("gtlcore:max_storage")
+        .itemOutputs("gtlcecore:max_storage")
         .EUt(GTValues.VA[GTValues.UV])
         .duration(400)
-    ["scannerResearch(java.util.function.UnaryOperator)"](b => b.researchStack(Registries.getItemStack("gtlcore:256m_storage")).dataStack(Registries.getItemStack("gtceu:data_stick")).EUt(GTValues.VA[GTValues.LuV]).duration(1200))
+    ["scannerResearch(java.util.function.UnaryOperator)"](b => b.researchStack(Registries.getItemStack("gtlcecore:256m_storage")).dataStack(Registries.getItemStack("gtceu:data_stick")).EUt(GTValues.VA[GTValues.LuV]).duration(1200))
 
-    gtr.assembly_line("gtlcore:infinite_cell_component")
-        .itemInputs("16x gtlcore:max_storage", "gtceu:data_bank", "16x gtceu:data_module", "64x ae2:creative_energy_cell", "64x #gtceu:circuits/uev", "64x gtceu:ruthenium_trinium_americium_neutronate_hex_wire", "4x gtceu:double_neutronium_plate")
+    gtr.assembly_line("gtlcecore:infinite_cell_component")
+        .itemInputs("16x gtlcecore:max_storage", "gtceu:data_bank", "16x gtceu:data_module", "64x ae2:creative_energy_cell", "64x #gtceu:circuits/uev", "64x gtceu:ruthenium_trinium_americium_neutronate_hex_wire", "4x gtceu:double_neutronium_plate")
         .inputFluids("gtceu:mutated_living_solder 20000", "gtceu:tairitsu 20000", "gtceu:pcb_coolant 100000")
-        .itemOutputs("gtlcore:infinite_cell_component")
+        .itemOutputs("gtlcecore:infinite_cell_component")
         .EUt(GTValues.VA[GTValues.UHV])
         .duration(2400)
-    ["scannerResearch(java.util.function.UnaryOperator)"](b => b.researchStack(Registries.getItemStack("gtlcore:cell_component_256m")).dataStack(Registries.getItemStack("gtceu:data_orb")).EUt(GTValues.VA[GTValues.UV]).duration(2400))
+    ["scannerResearch(java.util.function.UnaryOperator)"](b => b.researchStack(Registries.getItemStack("gtlcecore:cell_component_256m")).dataStack(Registries.getItemStack("gtceu:data_orb")).EUt(GTValues.VA[GTValues.UV]).duration(2400))
 
     for (let index = 0; index < 33; index++) {
         event.shaped(Item.of("expatternprovider:infinity_cell", `{record:{"#c":"ae2:i",id:"gtceu:programmed_circuit",tag:{Configuration:${index}}}}`), [
@@ -361,7 +361,7 @@ ServerEvents.recipes((event) => {
 
     gtr.assembler("gtlcecore:fishbig_hade")
         .itemInputs("64x gtceu:double_cosmic_plate", "64x gtceu:double_cosmic_plate", "64x gtceu:double_cosmic_plate",
-            "64x gtlcore:max_sensor", "64x gtceu:create_computation", "64x gtlcore:max_sensor",
+            "64x gtlcecore:max_sensor", "64x gtceu:create_computation", "64x gtlcecore:max_sensor",
             "64x gtceu:double_cosmic_plate", "64x gtlcecore:fishbig_frame", "64x gtceu:double_cosmic_plate")
         .inputFluids("gtceu:transcendentmetal 18432")
         .itemOutputs("gtlcecore:fishbig_hade")
@@ -372,7 +372,7 @@ ServerEvents.recipes((event) => {
     gtr.assembler("gtlcecore:fishbig_hair")
         .itemInputs("64x gtlcecore:fishbig_fabric", "64x gtlcecore:fishbig_fabric", "64x gtlcecore:fishbig_fabric",
             "64x gtlcecore:fishbig_fabric", "64x gtlcecore:fishbig_frame", "64x gtlcecore:fishbig_fabric",
-            "64x gtlcecore:fishbig_fabric", "64x gtlcore:infinity_glass", "64x gtlcecore:fishbig_fabric")
+            "64x gtlcecore:fishbig_fabric", "64x gtlcecore:infinity_glass", "64x gtlcecore:fishbig_fabric")
         .inputFluids("gtceu:eternity 18432")
         .itemOutputs("gtlcecore:fishbig_hair")
         .duration(200)
@@ -401,7 +401,7 @@ ServerEvents.recipes((event) => {
 
     gtr.assembler("gtlcecore:fishbig_rhand")
         .itemInputs("64x gtlcecore:fishbig_frame", "64x gtlcecore:fishbig_fabric", "64x gtlcecore:fishbig_fabric",
-            "64x gtlcecore:fishbig_fabric", "64x gtlcore:component_assembly_line_casing_max", "64x gtlcecore:fishbig_fabric",
+            "64x gtlcecore:fishbig_fabric", "64x gtlcecore:component_assembly_line_casing_max", "64x gtlcecore:fishbig_fabric",
             "64x gtlcecore:fishbig_fabric", "64x gtlcecore:fishbig_fabric", "64x gtlcecore:fishbig_fabric")
         .inputFluids("gtceu:eternity 18432")
         .itemOutputs("gtlcecore:fishbig_rhand")
@@ -411,7 +411,7 @@ ServerEvents.recipes((event) => {
 
     gtr.assembler("gtlcecore:fishbig_lhand")
         .itemInputs("64x gtlcecore:fishbig_fabric", "64x gtlcecore:fishbig_fabric", "64x gtlcecore:fishbig_frame",
-            "64x gtlcecore:fishbig_fabric", "64x gtlcore:component_assembly_line_casing_max", "64x gtlcecore:fishbig_fabric",
+            "64x gtlcecore:fishbig_fabric", "64x gtlcecore:component_assembly_line_casing_max", "64x gtlcecore:fishbig_fabric",
             "64x gtlcecore:fishbig_fabric", "64x gtlcecore:fishbig_fabric", "64x gtlcecore:fishbig_fabric")
         .inputFluids("gtceu:eternity 18432")
         .itemOutputs("gtlcecore:fishbig_lhand")

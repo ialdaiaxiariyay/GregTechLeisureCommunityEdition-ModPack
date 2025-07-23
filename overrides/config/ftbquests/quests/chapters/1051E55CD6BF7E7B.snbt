@@ -3,7 +3,7 @@
 	default_quest_shape: ""
 	filename: "1051E55CD6BF7E7B"
 	group: "68CBF1606D696C68"
-	icon: "gtlcore:max_electric_motor"
+	icon: "gtlcecore:max_electric_motor"
 	id: "1051E55CD6BF7E7B"
 	order_index: 14
 	quest_links: [{
@@ -152,7 +152,7 @@
 			id: "338F629A694C7556"
 			tasks: [{
 				id: "16C8AA0E8A7E6784"
-				item: "gtlcore:create_casing"
+				item: "gtlcecore:create_casing"
 				type: "item"
 			}]
 			x: 5.0d

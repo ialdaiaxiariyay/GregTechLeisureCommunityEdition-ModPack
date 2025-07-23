@@ -320,7 +320,7 @@
 			id: "335A02C9498DCBB0"
 			tasks: [{
 				id: "4F89800700465811"
-				item: "gtlcore:microfocus_x_ray_tube"
+				item: "gtlcecore:microfocus_x_ray_tube"
 				type: "item"
 			}]
 			x: 2.0d
@@ -538,7 +538,7 @@
 			id: "67D93082DA7185CC"
 			tasks: [{
 				id: "6791BE188E97863E"
-				item: "gtlcore:law_filter_casing"
+				item: "gtlcecore:law_filter_casing"
 				type: "item"
 			}]
 			x: 6.0d
