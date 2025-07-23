@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "test-1",
+  "versionId": "test1",
   "name": "GregTechLeisureCommunityEdition",
   "summary": "1.20.1, Forge 47.4.1",
   "files": [
@@ -18,32 +18,6 @@
         "https://edge.forgecdn.net/files/5116/766/ad_astra-forge-1.20.1-1.15.18.jar"
       ],
       "fileSize": 7461158
-    },
-    {
-      "path": "mods/ad_astra_rocketed-forge-1.20.1-1.0.5.jar",
-      "hashes": {
-        "sha1": "98fc9803159d69612168211ed690683b4ce5e9fb",
-        "sha512": "27e5583958d8c1c3112e6674d9c9d60a8521d6f619dccae14436d33ccaf9a92c47df1efdcf173b4fc55cc5e5ed6adebd4347e059fa7f2bf217b5c48ed31f5733"
-      },
-      "downloads": [
-        "https://mediafilez.forgecdn.net/files/5245/376/ad_astra_rocketed-forge-1.20.1-1.0.5.jar",
-        "https://media.forgecdn.net/files/5245/376/ad_astra_rocketed-forge-1.20.1-1.0.5.jar",
-        "https://edge.forgecdn.net/files/5245/376/ad_astra_rocketed-forge-1.20.1-1.0.5.jar"
-      ],
-      "fileSize": 4247529
-    },
-    {
-      "path": "mods/ae2ct-1.20.1-1.1.0.jar",
-      "hashes": {
-        "sha1": "89f25eb1b6d837a824349093125e74d175d361ae",
-        "sha512": "dd964ac198c3406f9b8350fec12871f2f33845459a40a07175cd0beac54c445b56d693b26d5c571ddbe4af449535d85a2cbbedce3776c705b4582aebfe15ce57"
-      },
-      "downloads": [
-        "https://mediafilez.forgecdn.net/files/6695/407/ae2ct-1.20.1-1.1.0.jar",
-        "https://media.forgecdn.net/files/6695/407/ae2ct-1.20.1-1.1.0.jar",
-        "https://edge.forgecdn.net/files/6695/407/ae2ct-1.20.1-1.1.0.jar"
-      ],
-      "fileSize": 238045
     },
     {
       "path": "mods/ae2wtlib-15.2.3-forge.jar",
@@ -100,19 +74,6 @@
         "https://edge.forgecdn.net/files/5486/70/botarium-forge-1.20.1-2.3.4.jar"
       ],
       "fileSize": 157633
-    },
-    {
-      "path": "mods/buildinggadgets2-1.0.7.jar",
-      "hashes": {
-        "sha1": "466c8cf2a45d878a224a77525b254b044aba3bd2",
-        "sha512": "100fb154d7440c9f2fd42487aa5f9e320276975fa3b38ba20cbdbad2ea2eebf63bc5ca64651612236630a5868e726172bec0b774e5e6c94f26f9b37b0d9e08ee"
-      },
-      "downloads": [
-        "https://mediafilez.forgecdn.net/files/5144/161/buildinggadgets2-1.0.7.jar",
-        "https://media.forgecdn.net/files/5144/161/buildinggadgets2-1.0.7.jar",
-        "https://edge.forgecdn.net/files/5144/161/buildinggadgets2-1.0.7.jar"
-      ],
-      "fileSize": 3832269
     },
     {
       "path": "mods/cloth-config-11.1.136-forge.jar",
@@ -185,71 +146,6 @@
       "fileSize": 895427
     },
     {
-      "path": "mods/ExtendedAE-1.20-1.4.3-forge.jar",
-      "hashes": {
-        "sha1": "80a50c9c2a4d220f012aa07dd832caac5351c47f",
-        "sha512": "50230a4d1fe1e7f72382766c8782175fc9e6519df2b7f5f7d67028022d6c675976ca2cd4ca8045af1be06ef67b006184395ed9d831a5b9c6e05c0ca0b7602e96"
-      },
-      "downloads": [
-        "https://mediafilez.forgecdn.net/files/6677/843/ExtendedAE-1.20-1.4.3-forge.jar",
-        "https://media.forgecdn.net/files/6677/843/ExtendedAE-1.20-1.4.3-forge.jar",
-        "https://edge.forgecdn.net/files/6677/843/ExtendedAE-1.20-1.4.3-forge.jar"
-      ],
-      "fileSize": 1538278
-    },
-    {
-      "path": "mods/FastFurnace-1.20.1-8.0.2.jar",
-      "hashes": {
-        "sha1": "b144b8599acd3fac3f8f9d31fa217a4a5b942f61",
-        "sha512": "4f11c4871ba88d10c07a295b84632e97ce417489c091c69873bc749dd11947413e907a55125e1529bd3a7a859dd8b8ba44857693fbbef74154ff14fb8d3d1c2e"
-      },
-      "downloads": [
-        "https://mediafilez.forgecdn.net/files/5181/98/FastFurnace-1.20.1-8.0.2.jar",
-        "https://media.forgecdn.net/files/5181/98/FastFurnace-1.20.1-8.0.2.jar",
-        "https://edge.forgecdn.net/files/5181/98/FastFurnace-1.20.1-8.0.2.jar"
-      ],
-      "fileSize": 6170
-    },
-    {
-      "path": "mods/FastLeafDecay-32.jar",
-      "hashes": {
-        "sha1": "4a76af4ca71dd9939d3c21206792c0d5f75b93a7",
-        "sha512": "77d0702385672b6e26e0c605555e096973f712584e10a80271e76efffd4660d4a5eb766e8f64a3ee9a46a8fc87585e0ad8b9a7be42282c493370f1ad9e9b64a1"
-      },
-      "downloads": [
-        "https://mediafilez.forgecdn.net/files/5375/681/FastLeafDecay-32.jar",
-        "https://media.forgecdn.net/files/5375/681/FastLeafDecay-32.jar",
-        "https://edge.forgecdn.net/files/5375/681/FastLeafDecay-32.jar"
-      ],
-      "fileSize": 9835
-    },
-    {
-      "path": "mods/FastSuite-1.20.1-5.0.1.jar",
-      "hashes": {
-        "sha1": "c418caa1eea74e9f05b4a20862ebc665019250c8",
-        "sha512": "2e891b6c995f1de55db358de8d3e013c976d62b2ad5d94c731e837a1efbd464d8f0a9d9085fff8430009ad39b6d6ea325ade6af6320f575952dfdaf69c83b39d"
-      },
-      "downloads": [
-        "https://mediafilez.forgecdn.net/files/4711/435/FastSuite-1.20.1-5.0.1.jar",
-        "https://media.forgecdn.net/files/4711/435/FastSuite-1.20.1-5.0.1.jar",
-        "https://edge.forgecdn.net/files/4711/435/FastSuite-1.20.1-5.0.1.jar"
-      ],
-      "fileSize": 20315
-    },
-    {
-      "path": "mods/FastWorkbench-1.20.1-8.0.4.jar",
-      "hashes": {
-        "sha1": "1a322a85e7c7024b8a0715c12d27b5ed0930d729",
-        "sha512": "c30dccece03fa9fa8de7bf0ec3b4988e7b2b0c214b5ab2142f13bcdced89c4ca8509244b9767df0903d55776ae2ada29b483af8dec649339b3f0c687ea18df76"
-      },
-      "downloads": [
-        "https://mediafilez.forgecdn.net/files/5101/229/FastWorkbench-1.20.1-8.0.4.jar",
-        "https://media.forgecdn.net/files/5101/229/FastWorkbench-1.20.1-8.0.4.jar",
-        "https://edge.forgecdn.net/files/5101/229/FastWorkbench-1.20.1-8.0.4.jar"
-      ],
-      "fileSize": 28188
-    },
-    {
       "path": "mods/ferritecore-6.0.1-forge.jar",
       "hashes": {
         "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
@@ -264,110 +160,6 @@
       "fileSize": 123034
     },
     {
-      "path": "mods/ftb-chunks-forge-2001.3.1.jar",
-      "hashes": {
-        "sha1": "540dfcaae2cbad38d53a6817d70e9c6acdac5ed1",
-        "sha512": "91a57df85d902d5921da2aa12982d25b76c58fc498bec336df3295086c47d9e55b4379dc1ff698206f98d82632de4a2776e0dbf5a84483546ca4534f26ac8713"
-      },
-      "downloads": [
-        "https://mediafilez.forgecdn.net/files/5378/90/ftb-chunks-forge-2001.3.1.jar",
-        "https://media.forgecdn.net/files/5378/90/ftb-chunks-forge-2001.3.1.jar",
-        "https://edge.forgecdn.net/files/5378/90/ftb-chunks-forge-2001.3.1.jar"
-      ],
-      "fileSize": 886468
-    },
-    {
-      "path": "mods/ftb-essentials-forge-2001.2.2.jar",
-      "hashes": {
-        "sha1": "e9f668ea8fa12215b1db9d505af8feb617d66e5a",
-        "sha512": "c1b85239868ba1eeedd28b7dd073fca20f457e79f0cf5abe0f313fa4ac0517f72cda0823d5aba63c783f9502e13508645cf3163ed8338b73eda0bb6f5c045623"
-      },
-      "downloads": [
-        "https://mediafilez.forgecdn.net/files/4896/152/ftb-essentials-forge-2001.2.2.jar",
-        "https://media.forgecdn.net/files/4896/152/ftb-essentials-forge-2001.2.2.jar",
-        "https://edge.forgecdn.net/files/4896/152/ftb-essentials-forge-2001.2.2.jar"
-      ],
-      "fileSize": 155952
-    },
-    {
-      "path": "mods/ftb-library-forge-2001.2.4.jar",
-      "hashes": {
-        "sha1": "0f98f24493af3e18e6dbfbca93bac9a659094d35",
-        "sha512": "6bc6f0ad6204d42e7d084eac0a234458d6d2de33e3ea08ade500234f1fec526ca696ed43ef3a01f6a27dee1d7327cde152bc9081d678a1cd00e1fb33a42b3d73"
-      },
-      "downloads": [
-        "https://mediafilez.forgecdn.net/files/5567/591/ftb-library-forge-2001.2.4.jar",
-        "https://media.forgecdn.net/files/5567/591/ftb-library-forge-2001.2.4.jar",
-        "https://edge.forgecdn.net/files/5567/591/ftb-library-forge-2001.2.4.jar"
-      ],
-      "fileSize": 791152
-    },
-    {
-      "path": "mods/ftb-quests-forge-2001.4.8.jar",
-      "hashes": {
-        "sha1": "dc8416b042866f5d8b0d852a7788d7dc138c41d2",
-        "sha512": "7de7b94b20395035e8b8f4e51489681e6a8841cf9b162322092d3825c1557b7003349690add2b0977a138ea35ce6b2218273c9a41cfa681e6437ced545e03619"
-      },
-      "downloads": [
-        "https://mediafilez.forgecdn.net/files/5543/955/ftb-quests-forge-2001.4.8.jar",
-        "https://media.forgecdn.net/files/5543/955/ftb-quests-forge-2001.4.8.jar",
-        "https://edge.forgecdn.net/files/5543/955/ftb-quests-forge-2001.4.8.jar"
-      ],
-      "fileSize": 1181709
-    },
-    {
-      "path": "mods/ftb-teams-forge-2001.3.0.jar",
-      "hashes": {
-        "sha1": "bb5a1f3ac9d44c5e9b319768e7166e877879aaaa",
-        "sha512": "7b5d889b498f352bc624fdad041b11f4f89f63c52a4c99a244285d1ec240fc0df73cc93a8184424ad544f6b6f8c2b5269485855c713a16808d30911d91209af0"
-      },
-      "downloads": [
-        "https://mediafilez.forgecdn.net/files/5267/190/ftb-teams-forge-2001.3.0.jar",
-        "https://media.forgecdn.net/files/5267/190/ftb-teams-forge-2001.3.0.jar",
-        "https://edge.forgecdn.net/files/5267/190/ftb-teams-forge-2001.3.0.jar"
-      ],
-      "fileSize": 247666
-    },
-    {
-      "path": "mods/ftb-ultimine-forge-2001.1.5.jar",
-      "hashes": {
-        "sha1": "106aa8ae16ceda4bb7244bfc64a6ee86c842f2a5",
-        "sha512": "eeb8bf76ad34b96b731f517496eec5d1fb77905318b183d2c0a8fe2fad841977ad21439984151de979b0dec782e1bb0f5751c5df9d5001f3894992e85ee1d91e"
-      },
-      "downloads": [
-        "https://mediafilez.forgecdn.net/files/5363/345/ftb-ultimine-forge-2001.1.5.jar",
-        "https://media.forgecdn.net/files/5363/345/ftb-ultimine-forge-2001.1.5.jar",
-        "https://edge.forgecdn.net/files/5363/345/ftb-ultimine-forge-2001.1.5.jar"
-      ],
-      "fileSize": 108517
-    },
-    {
-      "path": "mods/ftb-xmod-compat-forge-2.1.1.jar",
-      "hashes": {
-        "sha1": "55897695a22247ebe781499558a87b779175082a",
-        "sha512": "dea4671232960177c837bddef3884cac1a1cd99949cea6c415dc6ac5f2eba7aee950537209b190dce8cd8932433fded86930e50a4247fc1aecf07d076b76239e"
-      },
-      "downloads": [
-        "https://mediafilez.forgecdn.net/files/5257/897/ftb-xmod-compat-forge-2.1.1.jar",
-        "https://media.forgecdn.net/files/5257/897/ftb-xmod-compat-forge-2.1.1.jar",
-        "https://edge.forgecdn.net/files/5257/897/ftb-xmod-compat-forge-2.1.1.jar"
-      ],
-      "fileSize": 129541
-    },
-    {
-      "path": "mods/ftbbackups2-forge-1.20-1.0.23.jar",
-      "hashes": {
-        "sha1": "4b100de40338247a3fbf4d1fd1846257c5338189",
-        "sha512": "90243464bb9c8384af316e1462de0b71b4e6fc307c5c2b54d6c9c195da6e9d5e9d15104120b501d7520aa26ff4590663694713eed6f6acf480f221d969c12ae5"
-      },
-      "downloads": [
-        "https://mediafilez.forgecdn.net/files/4834/403/ftbbackups2-forge-1.20-1.0.23.jar",
-        "https://media.forgecdn.net/files/4834/403/ftbbackups2-forge-1.20-1.0.23.jar",
-        "https://edge.forgecdn.net/files/4834/403/ftbbackups2-forge-1.20-1.0.23.jar"
-      ],
-      "fileSize": 1954591
-    },
-    {
       "path": "mods/Glodium-1.20-1.5-forge.jar",
       "hashes": {
         "sha1": "c7534db3248adfcf39a6158b423dfc9bfc99a378",
@@ -380,19 +172,6 @@
         "https://edge.forgecdn.net/files/5226/922/Glodium-1.20-1.5-forge.jar"
       ],
       "fileSize": 60550
-    },
-    {
-      "path": "mods/gpumemleakfix-1.20.1-1.8.jar",
-      "hashes": {
-        "sha1": "54301c2db5467e0f9f5c504887436f358335331f",
-        "sha512": "6e513fa050f21d7f43f1c8a698d3702e08836ef1dfcdc5fdd20ad9dc51f25d3934b11149095240899adb88eec2602cb858ce23dc32f770b118e9438fd68561cb"
-      },
-      "downloads": [
-        "https://mediafilez.forgecdn.net/files/4884/976/gpumemleakfix-1.20.1-1.8.jar",
-        "https://media.forgecdn.net/files/4884/976/gpumemleakfix-1.20.1-1.8.jar",
-        "https://edge.forgecdn.net/files/4884/976/gpumemleakfix-1.20.1-1.8.jar"
-      ],
-      "fileSize": 7997
     },
     {
       "path": "mods/guideme-20.1.11.jar",
@@ -465,32 +244,6 @@
       "fileSize": 1385600
     },
     {
-      "path": "mods/jeiintegration_1.20.1-10.0.0.jar",
-      "hashes": {
-        "sha1": "0aa9c598105938ee0be35f1c1b31ab5d936b0ef6",
-        "sha512": "792d384da6e9b7971f70fd6dbc5c2e61112a9bba5dc1fef9ce3718523634894980aecebe6835a81afe63f8437e1b26bacc3d367c28c168b1d149164eeeaeb5b7"
-      },
-      "downloads": [
-        "https://mediafilez.forgecdn.net/files/4999/754/jeiintegration_1.20.1-10.0.0.jar",
-        "https://media.forgecdn.net/files/4999/754/jeiintegration_1.20.1-10.0.0.jar",
-        "https://edge.forgecdn.net/files/4999/754/jeiintegration_1.20.1-10.0.0.jar"
-      ],
-      "fileSize": 26940
-    },
-    {
-      "path": "mods/JustEnoughResources-1.20.1-1.4.0.247.jar",
-      "hashes": {
-        "sha1": "2747c58f439c37a01139d35cab59ca1a54114009",
-        "sha512": "4e26378531cab5b96440106c26ba28811fc309e91067dbead0e2929f5f7aad0ee0a7c9293efa7425f86417d718a282906e8c7e477f97e4e94135fd33fb59fcb0"
-      },
-      "downloads": [
-        "https://mediafilez.forgecdn.net/files/5057/220/JustEnoughResources-1.20.1-1.4.0.247.jar",
-        "https://media.forgecdn.net/files/5057/220/JustEnoughResources-1.20.1-1.4.0.247.jar",
-        "https://edge.forgecdn.net/files/5057/220/JustEnoughResources-1.20.1-1.4.0.247.jar"
-      ],
-      "fileSize": 276231
-    },
-    {
       "path": "mods/kubejs-forge-2001.6.5-build.14.jar",
       "hashes": {
         "sha1": "3a40e639a6b7576deeb1f9e5379beaba85c15280",
@@ -503,19 +256,6 @@
         "https://edge.forgecdn.net/files/5454/840/kubejs-forge-2001.6.5-build.14.jar"
       ],
       "fileSize": 1654724
-    },
-    {
-      "path": "mods/laserio-1.6.8.jar",
-      "hashes": {
-        "sha1": "f9e8dc07506eaa058f64e875e1f46dcd44ab6003",
-        "sha512": "11097550ae309f94f5e429aa230b24b12c75ebbe3d87faa90fa379f17e83ab3ad9a2769412199ac62d79dad01677d572491824b5a032e7701efa74d8f0caff86"
-      },
-      "downloads": [
-        "https://mediafilez.forgecdn.net/files/5074/767/laserio-1.6.8.jar",
-        "https://media.forgecdn.net/files/5074/767/laserio-1.6.8.jar",
-        "https://edge.forgecdn.net/files/5074/767/laserio-1.6.8.jar"
-      ],
-      "fileSize": 1246106
     },
     {
       "path": "mods/ldlib-forge-1.20.1-1.0.41.b.jar",
@@ -628,45 +368,6 @@
         "https://edge.forgecdn.net/files/5299/671/oculus-mc1.20.1-1.7.0.jar"
       ],
       "fileSize": 2831148
-    },
-    {
-      "path": "mods/PackMenu-1.20.1-6.1.2.jar",
-      "hashes": {
-        "sha1": "f9949cf20abb021bcdc6a5865ccae47940c4fd1a",
-        "sha512": "4064269ef04c6aa64ebeeb39651fb6ba72e507c2702b32ab46531a34b10ca30fd390c64482e556994c726801f74d13b7b79134c57563f4f115a2ca10a4ffa4a1"
-      },
-      "downloads": [
-        "https://mediafilez.forgecdn.net/files/5503/481/PackMenu-1.20.1-6.1.2.jar",
-        "https://media.forgecdn.net/files/5503/481/PackMenu-1.20.1-6.1.2.jar",
-        "https://edge.forgecdn.net/files/5503/481/PackMenu-1.20.1-6.1.2.jar"
-      ],
-      "fileSize": 543359
-    },
-    {
-      "path": "mods/pipez-forge-1.20.1-1.2.16.jar",
-      "hashes": {
-        "sha1": "c5a169ee6f8e833fa749f7dd5464e51a4433df90",
-        "sha512": "130d0348af65798ddeac2273b12fb88ef247cfed32aeb0e404388bcddb25d63ccf931c58523657aecad1d2851973129ed24f5acc86238fabdb19c612c3b565ad"
-      },
-      "downloads": [
-        "https://mediafilez.forgecdn.net/files/5550/816/pipez-forge-1.20.1-1.2.16.jar",
-        "https://media.forgecdn.net/files/5550/816/pipez-forge-1.20.1-1.2.16.jar",
-        "https://edge.forgecdn.net/files/5550/816/pipez-forge-1.20.1-1.2.16.jar"
-      ],
-      "fileSize": 427648
-    },
-    {
-      "path": "mods/Placebo-1.20.1-8.6.2.jar",
-      "hashes": {
-        "sha1": "dacfb5429e4a7902203e417c78aab6e0d5087255",
-        "sha512": "8a7880d66197d80a6abdb544add27a39bc792d2a773a20c685a808859c94517492efe13b5e47eb39e4b7493be968b30ee37d495d017a7047d18df222b6c01491"
-      },
-      "downloads": [
-        "https://mediafilez.forgecdn.net/files/5414/631/Placebo-1.20.1-8.6.2.jar",
-        "https://media.forgecdn.net/files/5414/631/Placebo-1.20.1-8.6.2.jar",
-        "https://edge.forgecdn.net/files/5414/631/Placebo-1.20.1-8.6.2.jar"
-      ],
-      "fileSize": 285351
     },
     {
       "path": "mods/polylib-forge-2000.0.3-build.143.jar",
@@ -807,6 +508,292 @@
         "https://edge.forgecdn.net/files/4863/339/Shrink-1.20.1-1.4.5.jar"
       ],
       "fileSize": 88318
+    },
+    {
+      "path": "mods/ad_astra_rocketed-forge-1.20.1-1.0.5.jar",
+      "hashes": {
+        "sha1": "98fc9803159d69612168211ed690683b4ce5e9fb",
+        "sha512": "27e5583958d8c1c3112e6674d9c9d60a8521d6f619dccae14436d33ccaf9a92c47df1efdcf173b4fc55cc5e5ed6adebd4347e059fa7f2bf217b5c48ed31f5733"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/5245/376/ad_astra_rocketed-forge-1.20.1-1.0.5.jar",
+        "https://media.forgecdn.net/files/5245/376/ad_astra_rocketed-forge-1.20.1-1.0.5.jar",
+        "https://edge.forgecdn.net/files/5245/376/ad_astra_rocketed-forge-1.20.1-1.0.5.jar"
+      ],
+      "fileSize": 4247529
+    },
+    {
+      "path": "mods/ae2ct-1.20.1-1.1.0.jar",
+      "hashes": {
+        "sha1": "89f25eb1b6d837a824349093125e74d175d361ae",
+        "sha512": "dd964ac198c3406f9b8350fec12871f2f33845459a40a07175cd0beac54c445b56d693b26d5c571ddbe4af449535d85a2cbbedce3776c705b4582aebfe15ce57"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/6695/407/ae2ct-1.20.1-1.1.0.jar",
+        "https://media.forgecdn.net/files/6695/407/ae2ct-1.20.1-1.1.0.jar",
+        "https://edge.forgecdn.net/files/6695/407/ae2ct-1.20.1-1.1.0.jar"
+      ],
+      "fileSize": 238045
+    },
+    {
+      "path": "mods/buildinggadgets2-1.0.7.jar",
+      "hashes": {
+        "sha1": "466c8cf2a45d878a224a77525b254b044aba3bd2",
+        "sha512": "100fb154d7440c9f2fd42487aa5f9e320276975fa3b38ba20cbdbad2ea2eebf63bc5ca64651612236630a5868e726172bec0b774e5e6c94f26f9b37b0d9e08ee"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/5144/161/buildinggadgets2-1.0.7.jar",
+        "https://media.forgecdn.net/files/5144/161/buildinggadgets2-1.0.7.jar",
+        "https://edge.forgecdn.net/files/5144/161/buildinggadgets2-1.0.7.jar"
+      ],
+      "fileSize": 3832269
+    },
+    {
+      "path": "mods/ExtendedAE-1.20-1.4.3-forge.jar",
+      "hashes": {
+        "sha1": "80a50c9c2a4d220f012aa07dd832caac5351c47f",
+        "sha512": "50230a4d1fe1e7f72382766c8782175fc9e6519df2b7f5f7d67028022d6c675976ca2cd4ca8045af1be06ef67b006184395ed9d831a5b9c6e05c0ca0b7602e96"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/6677/843/ExtendedAE-1.20-1.4.3-forge.jar",
+        "https://media.forgecdn.net/files/6677/843/ExtendedAE-1.20-1.4.3-forge.jar",
+        "https://edge.forgecdn.net/files/6677/843/ExtendedAE-1.20-1.4.3-forge.jar"
+      ],
+      "fileSize": 1538278
+    },
+    {
+      "path": "mods/FastFurnace-1.20.1-8.0.2.jar",
+      "hashes": {
+        "sha1": "b144b8599acd3fac3f8f9d31fa217a4a5b942f61",
+        "sha512": "4f11c4871ba88d10c07a295b84632e97ce417489c091c69873bc749dd11947413e907a55125e1529bd3a7a859dd8b8ba44857693fbbef74154ff14fb8d3d1c2e"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/5181/98/FastFurnace-1.20.1-8.0.2.jar",
+        "https://media.forgecdn.net/files/5181/98/FastFurnace-1.20.1-8.0.2.jar",
+        "https://edge.forgecdn.net/files/5181/98/FastFurnace-1.20.1-8.0.2.jar"
+      ],
+      "fileSize": 6170
+    },
+    {
+      "path": "mods/FastLeafDecay-32.jar",
+      "hashes": {
+        "sha1": "4a76af4ca71dd9939d3c21206792c0d5f75b93a7",
+        "sha512": "77d0702385672b6e26e0c605555e096973f712584e10a80271e76efffd4660d4a5eb766e8f64a3ee9a46a8fc87585e0ad8b9a7be42282c493370f1ad9e9b64a1"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/5375/681/FastLeafDecay-32.jar",
+        "https://media.forgecdn.net/files/5375/681/FastLeafDecay-32.jar",
+        "https://edge.forgecdn.net/files/5375/681/FastLeafDecay-32.jar"
+      ],
+      "fileSize": 9835
+    },
+    {
+      "path": "mods/FastSuite-1.20.1-5.0.1.jar",
+      "hashes": {
+        "sha1": "c418caa1eea74e9f05b4a20862ebc665019250c8",
+        "sha512": "2e891b6c995f1de55db358de8d3e013c976d62b2ad5d94c731e837a1efbd464d8f0a9d9085fff8430009ad39b6d6ea325ade6af6320f575952dfdaf69c83b39d"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/4711/435/FastSuite-1.20.1-5.0.1.jar",
+        "https://media.forgecdn.net/files/4711/435/FastSuite-1.20.1-5.0.1.jar",
+        "https://edge.forgecdn.net/files/4711/435/FastSuite-1.20.1-5.0.1.jar"
+      ],
+      "fileSize": 20315
+    },
+    {
+      "path": "mods/FastWorkbench-1.20.1-8.0.4.jar",
+      "hashes": {
+        "sha1": "1a322a85e7c7024b8a0715c12d27b5ed0930d729",
+        "sha512": "c30dccece03fa9fa8de7bf0ec3b4988e7b2b0c214b5ab2142f13bcdced89c4ca8509244b9767df0903d55776ae2ada29b483af8dec649339b3f0c687ea18df76"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/5101/229/FastWorkbench-1.20.1-8.0.4.jar",
+        "https://media.forgecdn.net/files/5101/229/FastWorkbench-1.20.1-8.0.4.jar",
+        "https://edge.forgecdn.net/files/5101/229/FastWorkbench-1.20.1-8.0.4.jar"
+      ],
+      "fileSize": 28188
+    },
+    {
+      "path": "mods/ftb-chunks-forge-2001.3.1.jar",
+      "hashes": {
+        "sha1": "540dfcaae2cbad38d53a6817d70e9c6acdac5ed1",
+        "sha512": "91a57df85d902d5921da2aa12982d25b76c58fc498bec336df3295086c47d9e55b4379dc1ff698206f98d82632de4a2776e0dbf5a84483546ca4534f26ac8713"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/5378/90/ftb-chunks-forge-2001.3.1.jar",
+        "https://media.forgecdn.net/files/5378/90/ftb-chunks-forge-2001.3.1.jar",
+        "https://edge.forgecdn.net/files/5378/90/ftb-chunks-forge-2001.3.1.jar"
+      ],
+      "fileSize": 886468
+    },
+    {
+      "path": "mods/ftb-essentials-forge-2001.2.2.jar",
+      "hashes": {
+        "sha1": "e9f668ea8fa12215b1db9d505af8feb617d66e5a",
+        "sha512": "c1b85239868ba1eeedd28b7dd073fca20f457e79f0cf5abe0f313fa4ac0517f72cda0823d5aba63c783f9502e13508645cf3163ed8338b73eda0bb6f5c045623"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/4896/152/ftb-essentials-forge-2001.2.2.jar",
+        "https://media.forgecdn.net/files/4896/152/ftb-essentials-forge-2001.2.2.jar",
+        "https://edge.forgecdn.net/files/4896/152/ftb-essentials-forge-2001.2.2.jar"
+      ],
+      "fileSize": 155952
+    },
+    {
+      "path": "mods/ftb-library-forge-2001.2.4.jar",
+      "hashes": {
+        "sha1": "0f98f24493af3e18e6dbfbca93bac9a659094d35",
+        "sha512": "6bc6f0ad6204d42e7d084eac0a234458d6d2de33e3ea08ade500234f1fec526ca696ed43ef3a01f6a27dee1d7327cde152bc9081d678a1cd00e1fb33a42b3d73"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/5567/591/ftb-library-forge-2001.2.4.jar",
+        "https://media.forgecdn.net/files/5567/591/ftb-library-forge-2001.2.4.jar",
+        "https://edge.forgecdn.net/files/5567/591/ftb-library-forge-2001.2.4.jar"
+      ],
+      "fileSize": 791152
+    },
+    {
+      "path": "mods/ftb-quests-forge-2001.4.8.jar",
+      "hashes": {
+        "sha1": "dc8416b042866f5d8b0d852a7788d7dc138c41d2",
+        "sha512": "7de7b94b20395035e8b8f4e51489681e6a8841cf9b162322092d3825c1557b7003349690add2b0977a138ea35ce6b2218273c9a41cfa681e6437ced545e03619"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/5543/955/ftb-quests-forge-2001.4.8.jar",
+        "https://media.forgecdn.net/files/5543/955/ftb-quests-forge-2001.4.8.jar",
+        "https://edge.forgecdn.net/files/5543/955/ftb-quests-forge-2001.4.8.jar"
+      ],
+      "fileSize": 1181709
+    },
+    {
+      "path": "mods/ftb-teams-forge-2001.3.0.jar",
+      "hashes": {
+        "sha1": "bb5a1f3ac9d44c5e9b319768e7166e877879aaaa",
+        "sha512": "7b5d889b498f352bc624fdad041b11f4f89f63c52a4c99a244285d1ec240fc0df73cc93a8184424ad544f6b6f8c2b5269485855c713a16808d30911d91209af0"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/5267/190/ftb-teams-forge-2001.3.0.jar",
+        "https://media.forgecdn.net/files/5267/190/ftb-teams-forge-2001.3.0.jar",
+        "https://edge.forgecdn.net/files/5267/190/ftb-teams-forge-2001.3.0.jar"
+      ],
+      "fileSize": 247666
+    },
+    {
+      "path": "mods/ftb-ultimine-forge-2001.1.5.jar",
+      "hashes": {
+        "sha1": "106aa8ae16ceda4bb7244bfc64a6ee86c842f2a5",
+        "sha512": "eeb8bf76ad34b96b731f517496eec5d1fb77905318b183d2c0a8fe2fad841977ad21439984151de979b0dec782e1bb0f5751c5df9d5001f3894992e85ee1d91e"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/5363/345/ftb-ultimine-forge-2001.1.5.jar",
+        "https://media.forgecdn.net/files/5363/345/ftb-ultimine-forge-2001.1.5.jar",
+        "https://edge.forgecdn.net/files/5363/345/ftb-ultimine-forge-2001.1.5.jar"
+      ],
+      "fileSize": 108517
+    },
+    {
+      "path": "mods/ftb-xmod-compat-forge-2.1.1.jar",
+      "hashes": {
+        "sha1": "55897695a22247ebe781499558a87b779175082a",
+        "sha512": "dea4671232960177c837bddef3884cac1a1cd99949cea6c415dc6ac5f2eba7aee950537209b190dce8cd8932433fded86930e50a4247fc1aecf07d076b76239e"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/5257/897/ftb-xmod-compat-forge-2.1.1.jar",
+        "https://media.forgecdn.net/files/5257/897/ftb-xmod-compat-forge-2.1.1.jar",
+        "https://edge.forgecdn.net/files/5257/897/ftb-xmod-compat-forge-2.1.1.jar"
+      ],
+      "fileSize": 129541
+    },
+    {
+      "path": "mods/ftbbackups2-forge-1.20-1.0.23.jar",
+      "hashes": {
+        "sha1": "4b100de40338247a3fbf4d1fd1846257c5338189",
+        "sha512": "90243464bb9c8384af316e1462de0b71b4e6fc307c5c2b54d6c9c195da6e9d5e9d15104120b501d7520aa26ff4590663694713eed6f6acf480f221d969c12ae5"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/4834/403/ftbbackups2-forge-1.20-1.0.23.jar",
+        "https://media.forgecdn.net/files/4834/403/ftbbackups2-forge-1.20-1.0.23.jar",
+        "https://edge.forgecdn.net/files/4834/403/ftbbackups2-forge-1.20-1.0.23.jar"
+      ],
+      "fileSize": 1954591
+    },
+    {
+      "path": "mods/gpumemleakfix-1.20.1-1.8.jar",
+      "hashes": {
+        "sha1": "54301c2db5467e0f9f5c504887436f358335331f",
+        "sha512": "6e513fa050f21d7f43f1c8a698d3702e08836ef1dfcdc5fdd20ad9dc51f25d3934b11149095240899adb88eec2602cb858ce23dc32f770b118e9438fd68561cb"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/4884/976/gpumemleakfix-1.20.1-1.8.jar",
+        "https://media.forgecdn.net/files/4884/976/gpumemleakfix-1.20.1-1.8.jar",
+        "https://edge.forgecdn.net/files/4884/976/gpumemleakfix-1.20.1-1.8.jar"
+      ],
+      "fileSize": 7997
+    },
+    {
+      "path": "mods/jeiintegration_1.20.1-10.0.0.jar",
+      "hashes": {
+        "sha1": "0aa9c598105938ee0be35f1c1b31ab5d936b0ef6",
+        "sha512": "792d384da6e9b7971f70fd6dbc5c2e61112a9bba5dc1fef9ce3718523634894980aecebe6835a81afe63f8437e1b26bacc3d367c28c168b1d149164eeeaeb5b7"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/4999/754/jeiintegration_1.20.1-10.0.0.jar",
+        "https://media.forgecdn.net/files/4999/754/jeiintegration_1.20.1-10.0.0.jar",
+        "https://edge.forgecdn.net/files/4999/754/jeiintegration_1.20.1-10.0.0.jar"
+      ],
+      "fileSize": 26940
+    },
+    {
+      "path": "mods/JustEnoughResources-1.20.1-1.4.0.247.jar",
+      "hashes": {
+        "sha1": "2747c58f439c37a01139d35cab59ca1a54114009",
+        "sha512": "4e26378531cab5b96440106c26ba28811fc309e91067dbead0e2929f5f7aad0ee0a7c9293efa7425f86417d718a282906e8c7e477f97e4e94135fd33fb59fcb0"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/5057/220/JustEnoughResources-1.20.1-1.4.0.247.jar",
+        "https://media.forgecdn.net/files/5057/220/JustEnoughResources-1.20.1-1.4.0.247.jar",
+        "https://edge.forgecdn.net/files/5057/220/JustEnoughResources-1.20.1-1.4.0.247.jar"
+      ],
+      "fileSize": 276231
+    },
+    {
+      "path": "mods/laserio-1.6.8.jar",
+      "hashes": {
+        "sha1": "f9e8dc07506eaa058f64e875e1f46dcd44ab6003",
+        "sha512": "11097550ae309f94f5e429aa230b24b12c75ebbe3d87faa90fa379f17e83ab3ad9a2769412199ac62d79dad01677d572491824b5a032e7701efa74d8f0caff86"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/5074/767/laserio-1.6.8.jar",
+        "https://media.forgecdn.net/files/5074/767/laserio-1.6.8.jar",
+        "https://edge.forgecdn.net/files/5074/767/laserio-1.6.8.jar"
+      ],
+      "fileSize": 1246106
+    },
+    {
+      "path": "mods/pipez-forge-1.20.1-1.2.16.jar",
+      "hashes": {
+        "sha1": "c5a169ee6f8e833fa749f7dd5464e51a4433df90",
+        "sha512": "130d0348af65798ddeac2273b12fb88ef247cfed32aeb0e404388bcddb25d63ccf931c58523657aecad1d2851973129ed24f5acc86238fabdb19c612c3b565ad"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/5550/816/pipez-forge-1.20.1-1.2.16.jar",
+        "https://media.forgecdn.net/files/5550/816/pipez-forge-1.20.1-1.2.16.jar",
+        "https://edge.forgecdn.net/files/5550/816/pipez-forge-1.20.1-1.2.16.jar"
+      ],
+      "fileSize": 427648
+    },
+    {
+      "path": "mods/Placebo-1.20.1-8.6.2.jar",
+      "hashes": {
+        "sha1": "dacfb5429e4a7902203e417c78aab6e0d5087255",
+        "sha512": "8a7880d66197d80a6abdb544add27a39bc792d2a773a20c685a808859c94517492efe13b5e47eb39e4b7493be968b30ee37d495d017a7047d18df222b6c01491"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/5414/631/Placebo-1.20.1-8.6.2.jar",
+        "https://media.forgecdn.net/files/5414/631/Placebo-1.20.1-8.6.2.jar",
+        "https://edge.forgecdn.net/files/5414/631/Placebo-1.20.1-8.6.2.jar"
+      ],
+      "fileSize": 285351
     },
     {
       "path": "mods/sophisticatedbackpacks-1.20.1-3.23.4.1196.jar",

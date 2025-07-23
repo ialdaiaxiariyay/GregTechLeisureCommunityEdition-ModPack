@@ -1222,7 +1222,10 @@
 				consume_items: true
 				count: 100L
 				id: "30A40F139AABD92E"
-				item: { Count: 100, id: "gtceu:ancient_gold_coin" }
+				item: {
+					Count: 100
+					id: "gtceu:ancient_gold_coin"
+				}
 				type: "item"
 			}]
 			title: "黑心老板"

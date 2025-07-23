@@ -484,7 +484,13 @@
 			rewards: [
 				{
 					id: "0D834802BFD2366F"
-					item: "avaritia:crystal_pickaxe"
+					item: {
+						Count: 1
+						id: "avaritia:crystal_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
 					type: "item"
 				}
 				{

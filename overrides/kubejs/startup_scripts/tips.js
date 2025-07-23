@@ -1,5 +1,6 @@
 ForgeEvents.onEvent("net.minecraftforge.event.entity.player.ItemTooltipEvent", event => {
-    if (!LDLib.isClient()) return
+    const GTCEu = Java.loadClass("com.gregtechceu.gtceu.GTCEu")
+    if (!GTCEu.isClientSide()) return
     const TextUtil = Java.loadClass("org.gtlce.gtlcecore.utils.TextUtil")
     function addfull_colortooltip(text) {
         event.getToolTip().add(Component.literal(TextUtil.full_color(text)))
