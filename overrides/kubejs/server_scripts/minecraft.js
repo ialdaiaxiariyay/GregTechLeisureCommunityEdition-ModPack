@@ -128,7 +128,7 @@ ServerEvents.recipes((event) => {
         .EUt(30)
         .duration(200)
 
-    gtr.dragon_egg_copier("gtceu:dragon_egg_copier")
+    gtr.dragon_egg_copier("gtlcecore:dragon_egg_copier")
         .itemInputs("minecraft:dragon_egg")
         .inputFluids("gtceu:biohmediumsterilized 100")
         .itemOutputs("minecraft:dragon_egg")

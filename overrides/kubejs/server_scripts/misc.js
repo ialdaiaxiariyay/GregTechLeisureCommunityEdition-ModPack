@@ -21,12 +21,11 @@ ServerEvents.recipes((event) => {
         B: "gtceu:eternity_rod"
     })
 
-    event.shaped("gtlcecore:time_twister_wireless", [
+    event.shaped("gtlcecore:time_twister_behavior", [
         "CDC",
-        "BAB",
+        "B B",
         "CDC"
     ], {
-        A: "gtlcecore:time_twister",
         D: "gtmthings:wireless_energy_monitor",
         C: "gtmthings:lv_wireless_energy_receive_cover",
         B: "minecraft:clock"

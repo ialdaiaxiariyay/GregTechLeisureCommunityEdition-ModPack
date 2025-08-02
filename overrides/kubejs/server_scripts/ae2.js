@@ -1,7 +1,7 @@
 //priority: 94
 ServerEvents.recipes((event) => {
     const gtr = event.recipes.gtceu
-
+    const tiers = ["ulv", "lv", "mv", "hv", "ev", "iv", "luv", "zpm", "uv", "uhv", "uev", "uiv", "uxv", "opv", "max"]
     event.remove({ id: "ae2:misc/deconstruction_certus_quartz_block" })
     event.remove({ id: "ae2:misc/fluixpearl" })
     event.remove({ id: "ae2:network/blocks/controller" })
@@ -17,7 +17,7 @@ ServerEvents.recipes((event) => {
     event.remove({ id: "expatternprovider:fishbig" })
     event.shapeless("gtlcecore:item_infinity_cell", ["ae2:item_cell_housing", "gtlcecore:infinite_cell_component"])
     event.shapeless("gtlcecore:fluid_infinity_cell", ["ae2:fluid_cell_housing", "gtlcecore:infinite_cell_component"])
-    event.shapeless("gtlcecore:pattern_modifier", "expatternprovider:pattern_modifier")
+    //event.shapeless("gtlcecore:pattern_modifier", "expatternprovider:pattern_modifier")
 
     event.shaped("ae2:creative_energy_cell", [
         "AAA",
@@ -293,7 +293,6 @@ ServerEvents.recipes((event) => {
             D: getCellComponent(index + 5)
         })
     }
-
     for (let index = 1; index < 10; index++) {
         gtr.assembler(getCellComponent(index))
             .itemInputs(getCellComponent(index - 1), "2x #gtceu:circuits/" + tiers[index - 1][0], "ae2:logic_processor", index > 4 ? "ae2:engineering_processor" : "gtceu:redstone_plate", "ae2:calculation_processor", "gtceu:quartzite_plate")
@@ -351,7 +350,7 @@ ServerEvents.recipes((event) => {
 
     gtr.assembler("gtlcecore:fishbig_body")
         .itemInputs("64x gtlcecore:fishbig_fabric", "64x gtlcecore:fishbig_frame", "64x gtlcecore:fishbig_fabric",
-            "64x gtlcecore:fishbig_fabric", "64x gtceu:create_aggregation", "64x gtlcecore:fishbig_fabric",
+            "64x gtlcecore:fishbig_fabric", "64x gtlcecore:create_aggregation", "64x gtlcecore:fishbig_fabric",
             "64x gtlcecore:fishbig_fabric", "64x gtlcecore:fishbig_frame", "64x gtlcecore:fishbig_fabric")
         .inputFluids("gtceu:eternity 18432")
         .itemOutputs("gtlcecore:fishbig_body")
@@ -361,7 +360,7 @@ ServerEvents.recipes((event) => {
 
     gtr.assembler("gtlcecore:fishbig_hade")
         .itemInputs("64x gtceu:double_cosmic_plate", "64x gtceu:double_cosmic_plate", "64x gtceu:double_cosmic_plate",
-            "64x gtlcecore:max_sensor", "64x gtceu:create_computation", "64x gtlcecore:max_sensor",
+            "64x gtlcecore:max_sensor", "64x gtlcecore:create_computation", "64x gtlcecore:max_sensor",
             "64x gtceu:double_cosmic_plate", "64x gtlcecore:fishbig_frame", "64x gtceu:double_cosmic_plate")
         .inputFluids("gtceu:transcendentmetal 18432")
         .itemOutputs("gtlcecore:fishbig_hade")
@@ -381,7 +380,7 @@ ServerEvents.recipes((event) => {
 
     gtr.assembler("gtlcecore:fishbig_rleg")
         .itemInputs("64x gtlcecore:fishbig_frame", "64x gtlcecore:fishbig_fabric", "64x gtlcecore:fishbig_fabric",
-            "64x gtlcecore:fishbig_fabric", "64x gtceu:max_buffer", "64x gtlcecore:fishbig_fabric",
+            "64x gtlcecore:fishbig_fabric", "64x gtlcecore:max_buffer", "64x gtlcecore:fishbig_fabric",
             "64x gtlcecore:fishbig_fabric", "64x gtlcecore:fishbig_fabric", "64x gtlcecore:fishbig_fabric")
         .inputFluids("gtceu:eternity 18432")
         .itemOutputs("gtlcecore:fishbig_rleg")
@@ -391,7 +390,7 @@ ServerEvents.recipes((event) => {
 
     gtr.assembler("gtlcecore:fishbig_lleg")
         .itemInputs("64x gtlcecore:fishbig_fabric", "64x gtlcecore:fishbig_fabric", "64x gtlcecore:fishbig_frame",
-            "64x gtlcecore:fishbig_fabric", "64x gtceu:max_buffer", "64x gtlcecore:fishbig_fabric",
+            "64x gtlcecore:fishbig_fabric", "64x gtlcecore:max_buffer", "64x gtlcecore:fishbig_fabric",
             "64x gtlcecore:fishbig_fabric", "64x gtlcecore:fishbig_fabric", "64x gtlcecore:fishbig_fabric")
         .inputFluids("gtceu:eternity 18432")
         .itemOutputs("gtlcecore:fishbig_lleg")

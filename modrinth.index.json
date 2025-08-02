@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "test1",
+  "versionId": "1.0.0",
   "name": "GregTechLeisureCommunityEdition",
   "summary": "1.20.1, Forge 47.4.1",
   "files": [

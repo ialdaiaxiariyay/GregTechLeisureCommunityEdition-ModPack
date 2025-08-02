@@ -1,7 +1,5 @@
 ForgeEvents.onEvent("net.minecraftforge.event.entity.player.ItemTooltipEvent", event => {
-    const GTCEu = Java.loadClass("com.gregtechceu.gtceu.GTCEu")
     if (!GTCEu.isClientSide()) return
-    const TextUtil = Java.loadClass("org.gtlce.gtlcecore.utils.TextUtil")
     function addfull_colortooltip(text) {
         event.getToolTip().add(Component.literal(TextUtil.full_color(text)))
     }
@@ -40,10 +38,10 @@ ForgeEvents.onEvent("net.minecraftforge.event.entity.player.ItemTooltipEvent", e
         }
     })
     switch (event.getItemStack().getId()) {
-        case "gtceu:dimensionally_transcendent_dirt_forge":
+        case "gtlcecore:dimensionally_transcendent_dirt_forge":
             addfull_colortooltip("原始人的第一个巨构")
             break
-        case "gtceu:door_of_create":
+        case "gtlcecore:door_of_create":
             addwhite_bluetooltip("登神之路为你打开")
             break
         case "gtlcecore:create_ultimate_battery":
