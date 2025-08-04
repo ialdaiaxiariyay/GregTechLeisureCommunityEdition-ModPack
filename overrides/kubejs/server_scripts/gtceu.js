@@ -46,7 +46,7 @@ ServerEvents.recipes((event) => {
         E: "gtceu:bronze_rod"
     })
 
-    event.shaped(Registries.getItemStack("gtlcecore:primitive_fluid_regulator", 64), [
+    event.shaped(Registries.getItemStack("gtlcecore:primitive_fluid_pump", 64), [
         "BAE",
         "DFA",
         "ECB"
@@ -13265,38 +13265,16 @@ ServerEvents.recipes((event) => {
             .EUt(GTValues.VA[GTValues.ZPM])
             .CWUt(32))
 
-    gtr.assembly_line("gtceu:nano_forge_1")
+    gtr.assembly_line("gtceu:nano_forge")
         .itemInputs("16x gtceu:uv_machine_hull", "16x gtceu:carbon_nanoswarm", "16x gtceu:zpm_field_generator", "16x gtceu:uv_robot_arm", "16x gtceu:uv_conveyor_module", "32x gtceu:uv_electric_motor", "16x #gtceu:circuits/uv", "16x gtceu:naquadah_octal_wire")
         .inputFluids("gtceu:soldering_alloy 4608", "gtceu:hsss 4608", "gtceu:osmiridium 4608", "gtceu:enriched_naquadah 4608")
-        .itemOutputs("gtceu:nano_forge_1")
+        .itemOutputs("gtceu:nano_forge")
         .EUt(GTValues.VA[GTValues.UV])
         .duration(2400)
         .stationResearch(b => b.researchStack(Registries.getItemStack("gtceu:carbon_nanoswarm"))
             .dataStack(Registries.getItemStack("gtceu:data_orb"))
             .EUt(GTValues.VA[GTValues.UV])
             .CWUt(64))
-
-    gtr.assembly_line("gtlcecore:nano_forge_2")
-        .itemInputs("16x gtceu:uev_machine_hull", "16x gtceu:neutronium_nanoswarm", "16x gtlcecore:draconic_core", "16x gtceu:uev_robot_arm", "16x gtceu:uev_conveyor_module", "32x gtceu:uev_electric_motor", "16x #gtceu:circuits/uev", "16x gtceu:mithril_octal_wire")
-        .inputFluids("gtceu:soldering_alloy 4608", "gtceu:hsss 4608", "gtceu:osmiridium 4608", "gtceu:enriched_naquadah 4608")
-        .itemOutputs("gtlcecore:nano_forge_2")
-        .EUt(GTValues.VA[GTValues.UEV])
-        .duration(2400)
-        .stationResearch(b => b.researchStack(Registries.getItemStack("gtceu:nano_forge_1"))
-            .dataStack(Registries.getItemStack("gtceu:data_module"))
-            .EUt(GTValues.VA[GTValues.UEV])
-            .CWUt(256))
-
-    gtr.assembly_line("gtlcecore:nano_forge_3")
-        .itemInputs("16x gtceu:uxv_machine_hull", "16x gtceu:draconium_nanoswarm", "16x gtlcecore:awakened_core", "16x gtceu:uxv_robot_arm", "16x gtceu:uxv_conveyor_module", "32x gtceu:uxv_electric_motor", "16x #gtceu:circuits/uxv", "16x gtceu:taranium_octal_wire", "gtlcecore:wyvern_energy_core", "16x gtceu:double_celestialtungsten_plate")
-        .inputFluids("gtceu:soldering_alloy 4608", "gtceu:hsss 4608", "gtceu:osmiridium 4608", "gtceu:enriched_naquadah 4608")
-        .itemOutputs("gtlcecore:nano_forge_3")
-        .EUt(GTValues.VA[GTValues.UXV])
-        .duration(2400)
-        .stationResearch(b => b.researchStack(Registries.getItemStack("gtlcecore:nano_forge_2"))
-            .dataStack(Registries.getItemStack("gtceu:data_module"))
-            .EUt(GTValues.VA[GTValues.UXV])
-            .CWUt(2048))
 
     gtr.assembly_line("gtlcecore:field_extruder_factory")
         .itemInputs("4x gtceu:uhv_extruder", "4x gtceu:uhv_compressor", "8x gtceu:uev_field_generator", "4x gtceu:uev_emitter", "4x #gtceu:circuits/uiv", "4x gtceu:rhenium_nanoswarm", "64x gtceu:stress_proof_casing", "64x gtceu:dalisenite_plate")

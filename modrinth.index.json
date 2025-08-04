@@ -370,6 +370,20 @@
       "fileSize": 2831148
     },
     {
+      "path": "mods/packetfixer-3.1.4-1.18-1.20.4-merged.jar",
+      "hashes": {
+        "sha1": "1cdf5d8b637922b12bc72c575ce1428f1f2cae2a",
+        "sha512": "b6a5b6f684c538ee907e99362be5d8c86b4b923bb2ef9789a1a7ed739f054dc73a7eca8ddf174f97f102f848d74105cd3b6011d8930a5ff001e71d9efad65dcf"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/c7m1mi73/versions/dCEO67fT/packetfixer-3.1.4-1.18-1.20.4-merged.jar",
+        "https://mediafilez.forgecdn.net/files/6778/805/packetfixer-3.1.4-1.18-1.20.4-merged.jar",
+        "https://media.forgecdn.net/files/6778/805/packetfixer-3.1.4-1.18-1.20.4-merged.jar",
+        "https://edge.forgecdn.net/files/6778/805/packetfixer-3.1.4-1.18-1.20.4-merged.jar"
+      ],
+      "fileSize": 163268
+    },
+    {
       "path": "mods/polylib-forge-2000.0.3-build.143.jar",
       "hashes": {
         "sha1": "bf49919adc9e9109196762ff20030f823790e2db",
