@@ -88,7 +88,7 @@
 			id: "6A1F7D407BE033A9"
 			tasks: [{
 				id: "65FF8A6173E91F9E"
-				item: "gtceu:draconium_dust"
+				item: "gtlcecore:draconium_dust"
 				type: "item"
 			}]
 			x: 2.0d
@@ -400,7 +400,7 @@
 			shape: "gear"
 			tasks: [{
 				id: "3E7381E30A07D91A"
-				item: "gtceu:dragon_egg_copier"
+				item: "gtlcecore:dragon_egg_copier"
 				type: "item"
 			}]
 			x: 2.0d
@@ -427,7 +427,7 @@
 			size: 1.0d
 			tasks: [{
 				id: "08A25F44515BD5D7"
-				item: "gtceu:qft"
+				item: "gtlcecore:qft"
 				type: "item"
 			}]
 			x: 6.0d
@@ -641,17 +641,6 @@
 			}]
 			x: 12.0d
 			y: 2.0d
-		}
-		{
-			dependencies: ["108792B10FDEC848"]
-			id: "6C1AB68CC57D8670"
-			tasks: [{
-				id: "37C6A37E62975D44"
-				item: "gtceu:nano_forge_3"
-				type: "item"
-			}]
-			x: 4.0d
-			y: 0.0d
 		}
 		{
 			dependencies: ["26607B94D873E07A"]

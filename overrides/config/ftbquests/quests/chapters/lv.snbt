@@ -19,7 +19,7 @@
 			id: "0223A643A5066452"
 			rewards: [{
 				id: "370F298DE7E8BDFA"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -36,7 +36,7 @@
 			id: "29A8EC2EB3240278"
 			rewards: [{
 				id: "2C1B4104F999C13C"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -59,7 +59,7 @@
 			id: "0332882DFA45B956"
 			rewards: [{
 				id: "78F04A717AF9C76A"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -76,7 +76,7 @@
 			id: "3DDFE62FF48A9135"
 			rewards: [{
 				id: "04F13FA1B7E80AD9"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -92,7 +92,7 @@
 			id: "2D6BB32B642AE8BA"
 			rewards: [{
 				id: "544735BB21DE9B9D"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -126,7 +126,7 @@
 			id: "0CF19CAFB3355075"
 			rewards: [{
 				id: "2AC3B6BF675F4682"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -147,7 +147,7 @@
 			id: "3DC0B933936357B3"
 			rewards: [{
 				id: "5722F9FCDB566036"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -167,7 +167,7 @@
 			id: "048455FFC9BDC82A"
 			rewards: [{
 				id: "4B27D0AEB350794A"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -185,7 +185,7 @@
 			id: "51F0CE5F1BCC78D1"
 			rewards: [{
 				id: "6F1E030D11A09345"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -208,7 +208,7 @@
 			id: "07D0D7005DA4F446"
 			rewards: [{
 				id: "59A5761D2A7FD87D"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			shape: "circle"
@@ -227,7 +227,7 @@
 			id: "32CE144D9A9F0943"
 			rewards: [{
 				id: "00234C85463FBBF3"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -246,7 +246,7 @@
 			rewards: [
 				{
 					id: "62C270080F8D4EF8"
-					item: "gtceu:silver_credit"
+					item: "gtlcecore:silver_credit"
 					type: "item"
 				}
 				{
@@ -292,7 +292,7 @@
 			id: "20F6BF1EDC6EBDC1"
 			rewards: [{
 				id: "0368C7A8382A16D9"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			shape: "circle"
@@ -315,7 +315,7 @@
 			id: "3E50EE376968519F"
 			rewards: [{
 				id: "2DF768F56128A868"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -335,7 +335,7 @@
 			id: "63C2FA96C708C125"
 			rewards: [{
 				id: "00F71B34C31D9DD1"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -351,7 +351,7 @@
 			id: "7CC28185463F24C2"
 			rewards: [{
 				id: "1B049A74A1F581C4"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -367,7 +367,7 @@
 			id: "18C2AB18B354F774"
 			rewards: [{
 				id: "39AA63FFC2362D94"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -384,7 +384,7 @@
 			id: "198ED0A20800F3ED"
 			rewards: [{
 				id: "2684D5389A34E1FD"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -403,7 +403,7 @@
 			id: "7F9F473B8C508676"
 			rewards: [{
 				id: "79ECDB061254A027"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -419,7 +419,7 @@
 			id: "36E33432C72763C8"
 			rewards: [{
 				id: "291856E74A9E5F26"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -436,7 +436,7 @@
 			id: "6E3B42BCBA6064F5"
 			rewards: [{
 				id: "5CE4F17667F7FBCE"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -454,7 +454,7 @@
 			id: "73EFFB71A1A827D6"
 			rewards: [{
 				id: "069723A603517148"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -473,7 +473,7 @@
 			id: "11B60450D7F3C188"
 			rewards: [{
 				id: "7B15E06A86D475E2"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			size: 2.0d
@@ -493,7 +493,7 @@
 			id: "7D399E31506924A0"
 			rewards: [{
 				id: "005FED5AFFB39EE8"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -509,7 +509,7 @@
 			id: "40C39645B1DE2488"
 			rewards: [{
 				id: "1AD5EB109E14A85F"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			shape: "rsquare"
@@ -527,7 +527,7 @@
 			id: "3A97E85643D2F8AC"
 			rewards: [{
 				id: "1C7F382616F0B1B4"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -546,7 +546,7 @@
 			id: "006BBE4D312A2E2E"
 			rewards: [{
 				id: "556A75455225A1FC"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -562,7 +562,7 @@
 			id: "1BF78ABAD1FF993F"
 			rewards: [{
 				id: "19C6BCAF6C93F813"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -578,7 +578,7 @@
 			id: "0877362A9EE36FB3"
 			rewards: [{
 				id: "13E6DA5EABE53D58"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -597,7 +597,7 @@
 			id: "6D63FB02A50F8249"
 			rewards: [{
 				id: "243137AFBD25F931"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -613,7 +613,7 @@
 			id: "5705516829BB38BE"
 			rewards: [{
 				id: "057AE899D28B3E8B"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -630,7 +630,7 @@
 			id: "30359A44D8B7E7A1"
 			rewards: [{
 				id: "03250D812C27447F"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -648,7 +648,7 @@
 			id: "524AC325E68AEB3A"
 			rewards: [{
 				id: "658C1C586BC53BC0"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -664,7 +664,7 @@
 			id: "18DC7021FF2C7EEB"
 			rewards: [{
 				id: "59DCAAF6EF76D2DD"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -680,7 +680,7 @@
 			id: "31B5C9A6F8FB0BA2"
 			rewards: [{
 				id: "25EAB2420E51D496"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -698,7 +698,7 @@
 			id: "5C12B96341807611"
 			rewards: [{
 				id: "403B511B96D6568D"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -716,7 +716,7 @@
 			id: "05707E2FF325F723"
 			rewards: [{
 				id: "7F852A16D5EF1FEF"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -734,7 +734,7 @@
 			id: "44DD16023AF842F1"
 			rewards: [{
 				id: "4FE417BAAE55F825"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -756,7 +756,7 @@
 			id: "3D8CF0C08F6A3075"
 			rewards: [{
 				id: "38BBC47CD4D1C340"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -776,7 +776,7 @@
 			id: "388E5C1034C54D19"
 			rewards: [{
 				id: "2DC114FA32688047"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			shape: "rsquare"
@@ -794,7 +794,7 @@
 			id: "49ABB341017BAE85"
 			rewards: [{
 				id: "3694138B038CCF53"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -810,7 +810,7 @@
 			id: "54034055F57DDAA5"
 			rewards: [{
 				id: "78F1A4EDCA1788D5"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -847,7 +847,7 @@
 			id: "27A9D4E765101CB9"
 			rewards: [{
 				id: "633A0E4549008312"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -864,7 +864,7 @@
 			id: "5D4ADE3F2E57635C"
 			rewards: [{
 				id: "47DA92AD0AF8469A"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [
@@ -888,7 +888,7 @@
 			id: "3117BF8E4782DB2A"
 			rewards: [{
 				id: "7A61C3136C8C309B"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -918,7 +918,7 @@
 			id: "45321051E19D5C25"
 			rewards: [{
 				id: "377A2142C44ADB94"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -937,7 +937,7 @@
 			id: "0D3122E318CB119D"
 			rewards: [{
 				id: "7D96687C8585EE02"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -981,7 +981,7 @@
 			id: "62B5D5669A535245"
 			tasks: [{
 				id: "41EE54C0336928F8"
-				item: "gtceu:slaughterhouse"
+				item: "gtlcecore:slaughterhouse"
 				type: "item"
 			}]
 			x: 10.0d
@@ -1061,7 +1061,7 @@
 			id: "72D27369AF243A34"
 			rewards: [{
 				id: "79B177EC0D35395A"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -1083,7 +1083,7 @@
 			id: "3A726EDBF7AC5E5B"
 			rewards: [{
 				id: "5ADE28DA4EF044A0"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -1111,7 +1111,7 @@
 			id: "51A6B6CDC90D7E76"
 			rewards: [{
 				id: "7AFF24BD5E9724BE"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -1127,7 +1127,7 @@
 			id: "1486FC9F82B2E56E"
 			tasks: [{
 				id: "5EE2778F62F08653"
-				item: "gtceu:generator_array"
+				item: "gtlcecore:generator_array"
 				type: "item"
 			}]
 			x: -4.0d
@@ -1141,12 +1141,12 @@
 			rewards: [
 				{
 					id: "3EB43CAB76F633F2"
-					item: "gtceu:lv_dual_input_hatch"
+					item: "gtlcecore:lv_dual_input_hatch"
 					type: "item"
 				}
 				{
 					id: "506F16048E7BF22A"
-					item: "gtceu:lv_dual_output_hatch"
+					item: "gtlcecore:lv_dual_output_hatch"
 					type: "item"
 				}
 			]

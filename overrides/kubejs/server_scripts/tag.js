@@ -39,12 +39,14 @@ ServerEvents.tags("item", event => {
         event.removeAllTagsFrom(ore)
     })
     event.remove("minecraft:planks", "gtceu:treated_wood_planks")
-    const space_suit_items = ["ad_astra:netherite_space_suit_items",
+    const space_suit_items = [
+        "ad_astra:netherite_space_suit_items",
         "ad_astra:freeze_resistant_armor",
         "ad_astra:heat_resistant_armor",
         "ad_astra:space_suit_items"]
     space_suit_items.forEach(ssitem => {
-        event.add(ssitem, ["gtceu:quarktech_chestplate",
+        event.add(ssitem, [
+            "gtceu:quarktech_chestplate",
             "gtceu:quarktech_leggings",
             "gtceu:quarktech_boots",
             "gtceu:advanced_quarktech_chestplate",

@@ -297,7 +297,7 @@
 			size: 1.0d
 			tasks: [{
 				id: "0F730F8E535FA432"
-				item: "gtceu:large_void_miner"
+				item: "gtlcecore:large_void_miner"
 				type: "item"
 			}]
 			x: 12.0d
@@ -314,7 +314,7 @@
 			size: 1.0d
 			tasks: [{
 				id: "2E8C86DE512279CC"
-				item: "gtceu:void_fluid_drilling_rig"
+				item: "gtlcecore:void_fluid_drilling_rig"
 				type: "item"
 			}]
 			title: "来自虚空"
@@ -329,7 +329,7 @@
 			size: 1.0d
 			tasks: [{
 				id: "17918BFA4E414A13"
-				item: "gtceu:precision_assembler"
+				item: "gtlcecore:precision_assembler"
 				type: "item"
 			}]
 			x: 14.0d
@@ -604,17 +604,17 @@
 			tasks: [
 				{
 					id: "2033E704723D1C29"
-					item: "gtceu:neutron_activator"
+					item: "gtlcecore:neutron_activator"
 					type: "item"
 				}
 				{
 					id: "52D36F7181BD1B42"
-					item: "gtceu:neutron_sensor"
+					item: "gtlcecore:neutron_sensor"
 					type: "item"
 				}
 				{
 					id: "7E710037106A0AA7"
-					item: "gtceu:iv_neutron_accelerator"
+					item: "gtlcecore:iv_neutron_accelerator"
 					type: "item"
 				}
 			]
@@ -651,7 +651,7 @@
 			id: "5B73961795BE42EE"
 			tasks: [{
 				id: "4532FD760D4A8258"
-				item: "gtceu:isa_mill"
+				item: "gtlcecore:isa_mill"
 				type: "item"
 			}]
 			x: 2.0d
@@ -662,7 +662,7 @@
 			id: "2588A0EF7F27DE5B"
 			tasks: [{
 				id: "6372AD4866BBD6B6"
-				item: "gtceu:flotation_cell_regulator"
+				item: "gtlcecore:flotation_cell_regulator"
 				type: "item"
 			}]
 			x: 4.0d
@@ -673,7 +673,7 @@
 			id: "147A71CE5EEBC836"
 			tasks: [{
 				id: "09A3EC272A7B5FF8"
-				item: "gtceu:vacuum_drying_furnace"
+				item: "gtlcecore:vacuum_drying_furnace"
 				type: "item"
 			}]
 			x: 6.0d

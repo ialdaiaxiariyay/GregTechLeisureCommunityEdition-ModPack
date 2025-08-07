@@ -1671,7 +1671,7 @@
 			size: 2.0d
 			tasks: [{
 				id: "591DE1FAA4F7D9C3"
-				item: "gtceu:space_elevator"
+				item: "gtlcecore:space_elevator"
 				type: "item"
 			}]
 			x: 36.5d

@@ -47,7 +47,7 @@
 			id: "10CD26CBAC242280"
 			rewards: [{
 				id: "4972B8DA5FCD6499"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -67,7 +67,7 @@
 			id: "56F6FC6F9E106A2F"
 			rewards: [{
 				id: "7BC9A3DB6303A906"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -83,7 +83,7 @@
 			id: "17F141D39F0AFD77"
 			rewards: [{
 				id: "43FC825F07EA8DD0"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -102,7 +102,7 @@
 			id: "5000DCB028460D47"
 			rewards: [{
 				id: "2CB7CF9A6E16C95A"
-				item: "gtceu:osmium_credit"
+				item: "gtlcecore:osmium_credit"
 				type: "item"
 			}]
 			shape: "rsquare"
@@ -120,7 +120,7 @@
 			id: "25F272243EB904D5"
 			rewards: [{
 				id: "40925897A5C74B62"
-				item: "gtceu:naquadah_credit"
+				item: "gtlcecore:naquadah_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -136,7 +136,7 @@
 			id: "1D96227373B962A2"
 			rewards: [{
 				id: "5D54D4EA65D60C8F"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -152,7 +152,7 @@
 			id: "2712564DCCFD49B7"
 			rewards: [{
 				id: "34B5A2CF18571DAA"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -169,7 +169,7 @@
 			id: "413B25F5BA2BA39D"
 			rewards: [{
 				id: "00E2A12C21199267"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -185,7 +185,7 @@
 			id: "5F11D5C61F8897B9"
 			rewards: [{
 				id: "3AC7FE180A495EAF"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			tasks: [
@@ -214,7 +214,7 @@
 			id: "4DDFAAF4A8E0622A"
 			rewards: [{
 				id: "3155DA55DF30A8F6"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -239,7 +239,7 @@
 			id: "2CAC63F25BAF50B3"
 			rewards: [{
 				id: "138FCFDBEF7F8A39"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -255,7 +255,7 @@
 			id: "7C8C2A0E5791E884"
 			rewards: [{
 				id: "6B5BBC55BCEFE146"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			subtitle: "你在月球挖到的，还记得吗"
@@ -272,7 +272,7 @@
 			id: "7DE362B6EF9C3800"
 			rewards: [{
 				id: "73EA0D5311505816"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -319,7 +319,7 @@
 			id: "4FD556B867463D30"
 			rewards: [{
 				id: "1FF9DBDFDD2696F0"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -335,7 +335,7 @@
 			id: "7DEEB07D0598019A"
 			rewards: [{
 				id: "6D67F24B06010900"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			tasks: [
@@ -362,7 +362,7 @@
 			id: "128C3126D5B5DCF3"
 			rewards: [{
 				id: "728EAD50A9488177"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -382,7 +382,7 @@
 			id: "3A8A37094C997BF8"
 			rewards: [{
 				id: "32F4ACB50913382B"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -399,7 +399,7 @@
 			id: "101EBAF218B980A1"
 			rewards: [{
 				id: "59D8861D0338EEC4"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -415,7 +415,7 @@
 			id: "5B65662B72C369E7"
 			rewards: [{
 				id: "552799C641212C2F"
-				item: "gtceu:osmium_credit"
+				item: "gtlcecore:osmium_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -432,7 +432,7 @@
 			rewards: [
 				{
 					id: "1DEBD71F9A11431E"
-					item: "gtceu:platinum_credit"
+					item: "gtlcecore:platinum_credit"
 					type: "item"
 				}
 				{
@@ -505,7 +505,7 @@
 			id: "04FD2A25CAC86CAB"
 			rewards: [{
 				id: "29A595C203E1C556"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			tasks: [
@@ -532,7 +532,7 @@
 			id: "42129A63D97DDF28"
 			rewards: [{
 				id: "318C5EA24BC6F21D"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			shape: "rsquare"
@@ -550,7 +550,7 @@
 			id: "1CF3B9952010D033"
 			rewards: [{
 				id: "3F6EE2E900833F74"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -566,7 +566,7 @@
 			id: "54ECD518FCACE649"
 			rewards: [{
 				id: "62272FE4D7AD9C46"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -585,7 +585,7 @@
 			id: "1EA6BA3CBF4BE5DB"
 			rewards: [{
 				id: "49F4342C238A2FD9"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			size: 2.0d
@@ -606,7 +606,7 @@
 			id: "4C43D30FD9B89965"
 			rewards: [{
 				id: "492C6A47DC96FE4E"
-				item: "gtceu:osmium_credit"
+				item: "gtlcecore:osmium_credit"
 				type: "item"
 			}]
 			size: 2.0d
@@ -626,7 +626,7 @@
 			id: "4CFA7C2E9E272741"
 			rewards: [{
 				id: "2D8893150287FA6C"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -642,7 +642,7 @@
 			id: "69B1CEE8D556E84C"
 			rewards: [{
 				id: "6465147B834EAB04"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -658,7 +658,7 @@
 			id: "65D09ACC43B7AF20"
 			rewards: [{
 				id: "5593C5C5687CB119"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -674,7 +674,7 @@
 			id: "70907ED7A5445C16"
 			rewards: [{
 				id: "040878D48A639B2E"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -693,7 +693,7 @@
 			id: "7AEC0D308494C0F8"
 			rewards: [{
 				id: "079C2ECD4F827B41"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -745,13 +745,13 @@
 			id: "5CCD191A904B528A"
 			rewards: [{
 				id: "39100B470D76E9EE"
-				item: "gtceu:osmium_credit"
+				item: "gtlcecore:osmium_credit"
 				type: "item"
 			}]
 			size: 2.0d
 			tasks: [{
 				id: "05372C97F5667E15"
-				item: "gtceu:void_miner"
+				item: "gtlcecore:void_miner"
 				type: "item"
 			}]
 			x: 2.0d
@@ -762,7 +762,7 @@
 			id: "7852E4465B3CAF80"
 			rewards: [{
 				id: "379C58C619F20529"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -781,7 +781,7 @@
 			id: "0375D068023B13D7"
 			rewards: [{
 				id: "7A3B69AFC8217DF8"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -797,7 +797,7 @@
 			id: "650980AB3D2A6AF6"
 			tasks: [{
 				id: "7D1205F365E0C204"
-				item: "gtceu:large_gas_collector"
+				item: "gtlcecore:large_gas_collector"
 				type: "item"
 			}]
 			x: 18.0d
@@ -828,12 +828,12 @@
 			id: "31C3D49708342998"
 			rewards: [{
 				id: "6A762837D30479F9"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			tasks: [{
 				id: "149DD4976B28F863"
-				item: "gtmthings:ev_64a_wireless_energy_input_hatch"
+				item: "gtlcecore:ev_64a_wireless_energy_input_hatch"
 				type: "item"
 			}]
 			x: 18.0d
@@ -935,7 +935,7 @@
 			id: "2E910F4C45003592"
 			tasks: [{
 				id: "00BCFB175F3BC87F"
-				item: "gtceu:hv_dehydrator"
+				item: "gtlcecore:hv_dehydrator"
 				type: "item"
 			}]
 			x: 6.0d

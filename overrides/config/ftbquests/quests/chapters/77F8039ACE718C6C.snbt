@@ -16,7 +16,7 @@
 			id: "5F5F348E3A34827E"
 			rewards: [{
 				id: "41A3ACD4F54D9969"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			shape: "rsquare"
@@ -35,7 +35,7 @@
 			id: "4E96A08CF12D496A"
 			rewards: [{
 				id: "0EF18EDF382FF874"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -130,7 +130,7 @@
 			id: "5C936EF307594737"
 			rewards: [{
 				id: "704DF16EECC15BD8"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -148,7 +148,7 @@
 			id: "36A49197309D1F09"
 			rewards: [{
 				id: "777E0B3B0A58DE1A"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [
@@ -198,7 +198,7 @@
 			id: "388BD32463FA905D"
 			rewards: [{
 				id: "57B2E9912F4375C3"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -219,7 +219,7 @@
 			id: "7CB85061F0822830"
 			rewards: [{
 				id: "0D14C938E01BD29D"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			shape: "rsquare"
@@ -257,7 +257,7 @@
 			rewards: [
 				{
 					id: "0AB3A8A039EB840F"
-					item: "gtceu:gold_credit"
+					item: "gtlcecore:gold_credit"
 					type: "item"
 				}
 				{
@@ -304,7 +304,7 @@
 			id: "3D65D9712DFB63D9"
 			rewards: [{
 				id: "7FAA57A862B018AE"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -328,7 +328,7 @@
 			id: "00579BDA1FA1BEC6"
 			rewards: [{
 				id: "51AF08C499E8329A"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [
@@ -360,7 +360,7 @@
 			id: "6525C9DE2A276238"
 			rewards: [{
 				id: "6B3DEE9FC411E85C"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -380,7 +380,7 @@
 			id: "02375F5D54E5F347"
 			rewards: [{
 				id: "1A0B2145C6BEAD5B"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -396,7 +396,7 @@
 			id: "43DE0784E5D32B46"
 			rewards: [{
 				id: "61C758028D9C9DB9"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -413,7 +413,7 @@
 			id: "707E5114B7979898"
 			rewards: [{
 				id: "255AB427616C13EB"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -433,7 +433,7 @@
 			id: "5CD26DECB937FC71"
 			rewards: [{
 				id: "327EC9AD42261D00"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -450,7 +450,7 @@
 			id: "3C91E284A9A03B1B"
 			rewards: [{
 				id: "08462119775B14A3"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -532,7 +532,7 @@
 			id: "3C071C0542CF935D"
 			rewards: [{
 				id: "4304D0C677F66D9B"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -552,12 +552,12 @@
 			id: "34FCFA114E75D770"
 			rewards: [{
 				id: "0C0731B2ACDDCE0D"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [{
 				id: "6255EA9A7B4B58EC"
-				item: "gtceu:large_steam_circuit_assembler"
+				item: "gtlcecore:large_steam_circuit_assembler"
 				type: "item"
 			}]
 			x: 8.0d
@@ -574,7 +574,7 @@
 			id: "5276CA8FA5262C9B"
 			rewards: [{
 				id: "7A6E4F26CB4EC8FB"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -593,12 +593,12 @@
 			id: "2585418910B6798A"
 			rewards: [{
 				id: "372783FB309C5A6A"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
 				id: "5F47C1E28CF33F84"
-				item: "gtceu:large_steam_centrifuge"
+				item: "gtlcecore:large_steam_centrifuge"
 				type: "item"
 			}]
 			x: 12.0d
@@ -610,7 +610,7 @@
 			id: "38CC43F7A6A39BB4"
 			rewards: [{
 				id: "3354D072C3B1F387"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -638,7 +638,7 @@
 			min_required_dependencies: 2
 			rewards: [{
 				id: "58F5C373D0AE0142"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -654,7 +654,7 @@
 			id: "77A1011F608079C9"
 			rewards: [{
 				id: "11D6ADD9CE28FA57"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -671,7 +671,7 @@
 			id: "6D729450ED86BDAF"
 			rewards: [{
 				id: "108CAF7D675F876A"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -686,7 +686,7 @@
 			id: "051710FFC9907807"
 			rewards: [{
 				id: "765C29DBBBD61E54"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -702,7 +702,7 @@
 			id: "740C2D1F3F420480"
 			rewards: [{
 				id: "0C13652D6A0B6866"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -719,7 +719,7 @@
 			id: "06285BE2396AB639"
 			rewards: [{
 				id: "2AEAC8B8E1C1EBB2"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -739,7 +739,7 @@
 			id: "08B7D8F835DFE214"
 			rewards: [{
 				id: "79AC4D19DF1054D1"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -759,7 +759,7 @@
 			id: "553B2D61416792DC"
 			rewards: [{
 				id: "5FCCD0A40F20BB43"
-				item: "gtceu:silver_credit"
+				item: "gtlcecore:silver_credit"
 				type: "item"
 			}]
 			shape: "rsquare"
@@ -781,7 +781,7 @@
 			id: "6E69F45AEA66D5ED"
 			rewards: [{
 				id: "5C30500B7291441C"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -820,7 +820,7 @@
 			id: "7736F74AEBCB914E"
 			rewards: [{
 				id: "25A3A90A72A7835D"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -853,7 +853,7 @@
 			size: 2.0d
 			tasks: [{
 				id: "2BE6A835D6EF790C"
-				item: "gtceu:dimensionally_transcendent_dirt_forge"
+				item: "gtlcecore:dimensionally_transcendent_dirt_forge"
 				type: "item"
 			}]
 			x: 8.0d
@@ -865,14 +865,14 @@
 			id: "0532330B52D98469"
 			rewards: [{
 				id: "142C72A3F57D1D8C"
-				item: "gtceu:ancient_gold_coin"
+				item: "gtlcecore:ancient_gold_coin"
 				type: "item"
 			}]
 			shape: "gear"
 			size: 2.0d
 			tasks: [{
 				id: "5AC94C8C8DEF4A0E"
-				item: "gtceu:dimensionally_transcendent_steam_oven"
+				item: "gtlcecore:dimensionally_transcendent_steam_oven"
 				type: "item"
 			}]
 			x: 0.0d
@@ -885,7 +885,7 @@
 			id: "10750DEB64B4BF89"
 			rewards: [{
 				id: "5931B37625BB11BB"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -902,7 +902,7 @@
 			id: "1AB03D24332B722E"
 			rewards: [{
 				id: "26F40D0C80FD0D34"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -922,7 +922,7 @@
 			id: "2B9D62FB6BF39201"
 			rewards: [{
 				id: "7E1DBDCD0B82F6E6"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -945,7 +945,7 @@
 				"大型蒸汽多方块满并行工作时蒸汽消耗特别大，需要用时空管道或激光节点等高速流体传输手段来提供蒸汽，否则会跳蒸汽"
 			]
 			hide_dependent_lines: true
-			icon: "gtceu:steam_piston_hammer"
+			icon: "gtlcecore:steam_piston_hammer"
 			id: "05BB1E1E38478F26"
 			rewards: [
 				{
@@ -989,7 +989,7 @@
 			id: "7B38A7C2643C6766"
 			rewards: [{
 				id: "42242771F67681FC"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [
@@ -1017,7 +1017,7 @@
 			rewards: [
 				{
 					id: "3753CAA23389F755"
-					item: "gtceu:cupronickel_credit"
+					item: "gtlcecore:cupronickel_credit"
 					type: "item"
 				}
 				{
@@ -1096,7 +1096,7 @@
 			tasks: [{
 				consume_items: true
 				id: "34FA7A3FDCEEFF9C"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			title: "划算的买卖"
@@ -1120,7 +1120,7 @@
 			tasks: [{
 				consume_items: true
 				id: "3ECB4C0EB5E8F595"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			title: "嫌麻烦可以买一点1"
@@ -1144,7 +1144,7 @@
 			tasks: [{
 				consume_items: true
 				id: "29ED502848D5ECAA"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			title: "嫌麻烦可以买一点2"
@@ -1168,7 +1168,7 @@
 			tasks: [{
 				consume_items: true
 				id: "52F04A057F457538"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			title: "嫌麻烦可以买一点3"
@@ -1192,7 +1192,7 @@
 			tasks: [{
 				consume_items: true
 				id: "7734AD7C5393BBC4"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			title: "嫌麻烦可以买一点4"
@@ -1204,7 +1204,7 @@
 			id: "144AC3BC2AA25E63"
 			rewards: [{
 				id: "037A6AECE7DF8FF6"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [{

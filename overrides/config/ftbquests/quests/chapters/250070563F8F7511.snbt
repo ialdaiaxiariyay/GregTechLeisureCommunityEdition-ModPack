@@ -64,7 +64,7 @@
 			id: "4F864738509B6DCA"
 			rewards: [{
 				id: "723CCD5BBA07EEDA"
-				item: "gtceu:copper_credit"
+				item: "gtlcecore:copper_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -496,7 +496,7 @@
 			id: "133BC85B5D3EF1CB"
 			rewards: [{
 				id: "0DA275C860355A9D"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [
@@ -521,7 +521,7 @@
 			id: "4B6F43302E963F5E"
 			rewards: [{
 				id: "45521EDF902431C8"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			shape: "rsquare"
@@ -539,7 +539,7 @@
 			id: "52A0EE026A3D3A79"
 			rewards: [{
 				id: "11FB0702EB3F7E18"
-				item: "gtceu:copper_credit"
+				item: "gtlcecore:copper_credit"
 				type: "item"
 			}]
 			tasks: [
@@ -569,7 +569,7 @@
 			optional: true
 			rewards: [{
 				id: "4990434DB8C2B79E"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -607,7 +607,7 @@
 			id: "2E6B876A85B30554"
 			rewards: [{
 				id: "4C4D7911A44B42C2"
-				item: "gtceu:ancient_gold_coin"
+				item: "gtlcecore:ancient_gold_coin"
 				type: "item"
 			}]
 			tasks: [
@@ -654,7 +654,7 @@
 				}
 				{
 					id: "52E43E748CD9D5CE"
-					item: "gtceu:copper_credit"
+					item: "gtlcecore:copper_credit"
 					type: "item"
 				}
 			]
@@ -672,7 +672,7 @@
 			id: "4C943E88E3926A9A"
 			rewards: [{
 				id: "3C50340F6A70A194"
-				item: "gtceu:copper_credit"
+				item: "gtlcecore:copper_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -1029,7 +1029,7 @@
 			id: "12E605EC5CFDE71A"
 			rewards: [{
 				id: "11023544A8C72E30"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			shape: "gear"
@@ -1057,7 +1057,7 @@
 			id: "46F82A0A3D57C225"
 			rewards: [{
 				id: "07408B5DAB665BC8"
-				item: "gtceu:copper_credit"
+				item: "gtlcecore:copper_credit"
 				type: "item"
 			}]
 			shape: "gear"
@@ -1076,7 +1076,7 @@
 			id: "4E01FAE893654321"
 			rewards: [{
 				id: "21D31A1CAA1B89AD"
-				item: "gtceu:cupronickel_credit"
+				item: "gtlcecore:cupronickel_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -1098,7 +1098,7 @@
 			id: "050FD340224F7AB6"
 			rewards: [{
 				id: "373E50B37DA19C04"
-				item: "gtceu:copper_credit"
+				item: "gtlcecore:copper_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -1116,7 +1116,7 @@
 			id: "79D4AD9908A4578A"
 			rewards: [{
 				id: "2284459A885572C5"
-				item: "gtceu:copper_credit"
+				item: "gtlcecore:copper_credit"
 				type: "item"
 			}]
 			tasks: [

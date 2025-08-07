@@ -31,7 +31,7 @@
 			id: "1EC6366E9611F2AD"
 			rewards: [{
 				id: "797DDD6D591D0FFA"
-				item: "gtceu:osmium_credit"
+				item: "gtlcecore:osmium_credit"
 				type: "item"
 			}]
 			shape: "rsquare"
@@ -49,7 +49,7 @@
 			id: "7940CFD732610594"
 			rewards: [{
 				id: "1DFFD2F64A2F76AD"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			shape: "rsquare"
@@ -70,7 +70,7 @@
 			id: "4DDF10E2B541BCBF"
 			rewards: [{
 				id: "3815B8B981E6F460"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -86,7 +86,7 @@
 			id: "26FA6E064EF9FF5B"
 			rewards: [{
 				id: "16C2721F050EF032"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			tasks: [
@@ -114,7 +114,7 @@
 			id: "4302F67F2B0B22D0"
 			rewards: [{
 				id: "775860DEC4147D06"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -130,7 +130,7 @@
 			id: "3E9C078C4BABAE3B"
 			rewards: [{
 				id: "45A95ECC52A47B8B"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -146,7 +146,7 @@
 			id: "61049DA87C6DEFC6"
 			rewards: [{
 				id: "28784D8A493C03B3"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -162,7 +162,7 @@
 			id: "6B416753B41DE9D3"
 			rewards: [{
 				id: "241C9174A4E2AE10"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -182,7 +182,7 @@
 			id: "3FCF807491579B94"
 			rewards: [{
 				id: "62693CFE4D386654"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -198,7 +198,7 @@
 			id: "18CA398800CC2E1B"
 			rewards: [{
 				id: "68D0EF3FC6EEA6B9"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -219,7 +219,7 @@
 			min_required_dependencies: 1
 			rewards: [{
 				id: "6B1C840CF7158D92"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -235,7 +235,7 @@
 			id: "3461BF0D74E5E8DF"
 			rewards: [{
 				id: "4785F0739BD9FEF4"
-				item: "gtceu:osmium_credit"
+				item: "gtlcecore:osmium_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -254,7 +254,7 @@
 			id: "5E9EA7E22BE663AF"
 			rewards: [{
 				id: "3AAB5D8903AA730D"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -270,7 +270,7 @@
 			id: "314E6600CD806FA0"
 			rewards: [{
 				id: "2D1F7CCE2173A794"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			tasks: [
@@ -294,7 +294,7 @@
 			id: "0243CEA5EE705EB0"
 			rewards: [{
 				id: "147065FBB37624B6"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -360,7 +360,7 @@
 			id: "5EECD56BF0EC1539"
 			rewards: [{
 				id: "57F8326FBE7A9BD0"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -376,12 +376,12 @@
 			id: "6F85AB2294DA3310"
 			rewards: [{
 				id: "02DA5E6725FF070A"
-				item: "gtceu:ancient_gold_coin"
+				item: "gtlcecore:ancient_gold_coin"
 				type: "item"
 			}]
 			tasks: [{
 				id: "0E4B176D3DF3D8F5"
-				item: "gtceu:fishing_ground"
+				item: "gtlcecore:fishing_ground"
 				type: "item"
 			}]
 			x: 10.0d
@@ -393,7 +393,7 @@
 			id: "2EAAF5A6510D0EFE"
 			rewards: [{
 				id: "5BAC2973956359FC"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			tasks: [
@@ -422,7 +422,7 @@
 			id: "027197A71E630966"
 			rewards: [{
 				id: "32C398A7D50E0057"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			size: 2.0d
@@ -440,7 +440,7 @@
 			id: "2610283E00EC04E4"
 			rewards: [{
 				id: "31410A08F07C9CC3"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -456,7 +456,7 @@
 			id: "06F68B574AC84B7B"
 			rewards: [{
 				id: "6AA3BA15A6AB3C7C"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -475,7 +475,7 @@
 			id: "75DAAFAD21F1451C"
 			rewards: [{
 				id: "4BA99C2D7D2D3D75"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			size: 2.0d
@@ -492,7 +492,7 @@
 			id: "0A8178183C888BE0"
 			rewards: [{
 				id: "47533DAABD2949AB"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -514,7 +514,7 @@
 			min_required_dependencies: 1
 			rewards: [{
 				id: "73D294571F48A5E9"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -530,7 +530,7 @@
 			id: "0BE334D9B0575DCD"
 			rewards: [{
 				id: "4987CEA2B2050E6C"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -546,7 +546,7 @@
 			id: "47E43CE78A75BB63"
 			rewards: [{
 				id: "5C692C08A161917E"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -562,7 +562,7 @@
 			id: "4967FCD7B2675E94"
 			rewards: [{
 				id: "488F9C493B727D21"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -578,7 +578,7 @@
 			id: "157A951DA379C259"
 			rewards: [{
 				id: "22590F01A2B5B20C"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			tasks: [
@@ -619,7 +619,7 @@
 			id: "11186961491B1773"
 			rewards: [{
 				id: "50D9BD8E2FED65CF"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -635,7 +635,7 @@
 			id: "29450DC426C4E2D6"
 			rewards: [{
 				id: "50F14222E01C7EAC"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -652,7 +652,7 @@
 			id: "6843AB3573F42310"
 			rewards: [{
 				id: "4521C94E7C8BF69B"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -668,7 +668,7 @@
 			id: "42E88FC72902FC0B"
 			rewards: [{
 				id: "6C2BC13971660863"
-				item: "gtceu:platinum_credit"
+				item: "gtlcecore:platinum_credit"
 				type: "item"
 			}]
 			size: 2.0d
@@ -685,7 +685,7 @@
 			id: "360787FE602FBF66"
 			rewards: [{
 				id: "2E4680FA75010FFB"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -701,7 +701,7 @@
 			id: "1AC5A3B5522F78D9"
 			rewards: [{
 				id: "41EF6A90661DE31D"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -747,7 +747,7 @@
 			id: "57A4521AB4244810"
 			rewards: [{
 				id: "751F0D369F8AECEC"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -764,7 +764,7 @@
 			id: "24A12D2F592DC50D"
 			rewards: [{
 				id: "5AD386A16F67A37E"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -781,7 +781,7 @@
 			id: "46BFDB71190C1F49"
 			rewards: [{
 				id: "21D42C7B4D0E84C3"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -798,7 +798,7 @@
 			id: "05360F828860DB6F"
 			rewards: [{
 				id: "700022A87BC01B7D"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -814,7 +814,7 @@
 			id: "58936CEB6176A18B"
 			rewards: [{
 				id: "1E0838EEE472F554"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			tasks: [{
@@ -832,7 +832,7 @@
 			id: "29BB35C725BE7D96"
 			rewards: [{
 				id: "1CEFD1341263DF3A"
-				item: "gtceu:gold_credit"
+				item: "gtlcecore:gold_credit"
 				type: "item"
 			}]
 			size: 2.0d

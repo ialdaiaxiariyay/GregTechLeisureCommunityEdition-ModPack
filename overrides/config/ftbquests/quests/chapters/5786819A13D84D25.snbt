@@ -47,7 +47,7 @@
 			size: 2.0d
 			tasks: [{
 				id: "02412DC87B9DA266"
-				item: "gtceu:stellar_forge"
+				item: "gtlcecore:stellar_forge"
 				type: "item"
 			}]
 			x: 2.0d
@@ -85,7 +85,7 @@
 			size: 2.0d
 			tasks: [{
 				id: "6A331B95C454D30D"
-				item: "gtceu:uhv_fusion_reactor"
+				item: "gtlcecore:uhv_fusion_reactor"
 				type: "item"
 			}]
 			x: 6.0d
@@ -280,7 +280,7 @@
 			size: 1.0d
 			tasks: [{
 				id: "1E707BD4FE3FEA6B"
-				item: "gtceu:matter_fabricator"
+				item: "gtlcecore:matter_fabricator"
 				type: "item"
 			}]
 			x: 0.0d
@@ -380,7 +380,7 @@
 			size: 1.0d
 			tasks: [{
 				id: "65BF39050B7B60AD"
-				item: "gtceu:pcb_factory"
+				item: "gtlcecore:pcb_factory"
 				type: "item"
 			}]
 			x: 12.0d
@@ -413,7 +413,7 @@
 			size: 1.0d
 			tasks: [{
 				id: "6B6EF476B6430A90"
-				item: "gtceu:engraving_laser_plant"
+				item: "gtlcecore:engraving_laser_plant"
 				type: "item"
 			}]
 			x: 2.0d
@@ -502,7 +502,7 @@
 			size: 1.0d
 			tasks: [{
 				id: "12A231EAC2E4FD44"
-				item: "gtceu:cooling_tower"
+				item: "gtlcecore:cooling_tower"
 				type: "item"
 			}]
 			x: 14.0d
@@ -526,7 +526,7 @@
 			size: 2.0d
 			tasks: [{
 				id: "2489A12E61345011"
-				item: "gtceu:suprachronal_assembly_line"
+				item: "gtlcecore:suprachronal_assembly_line"
 				type: "item"
 			}]
 			x: 10.0d
@@ -546,7 +546,7 @@
 			subtitle: "注意无论是否需要研究都必须连接数据库"
 			tasks: [{
 				id: "43EBC608B5383709"
-				item: "gtceu:dimensional_focus_engraving_array"
+				item: "gtlcecore:dimensional_focus_engraving_array"
 				type: "item"
 			}]
 			x: 10.0d
@@ -560,7 +560,7 @@
 			size: 1.0d
 			tasks: [{
 				id: "5C5CC922CD9EF716"
-				item: "gtceu:field_extruder_factory"
+				item: "gtlcecore:field_extruder_factory"
 				type: "item"
 			}]
 			x: 14.0d
@@ -574,7 +574,7 @@
 			size: 1.0d
 			tasks: [{
 				id: "6FAEEFBEBAEAE58F"
-				item: "gtceu:mega_wiremill"
+				item: "gtlcecore:mega_wiremill"
 				type: "item"
 			}]
 			x: 11.0d
@@ -588,7 +588,7 @@
 			size: 1.0d
 			tasks: [{
 				id: "76AB32A27420A608"
-				item: "gtceu:mega_presser"
+				item: "gtlcecore:mega_presser"
 				type: "item"
 			}]
 			x: 13.0d
@@ -602,7 +602,7 @@
 			size: 1.0d
 			tasks: [{
 				id: "38F98C857B04D47D"
-				item: "gtceu:mega_extractor"
+				item: "gtlcecore:mega_extractor"
 				type: "item"
 			}]
 			x: 12.0d
@@ -616,7 +616,7 @@
 			size: 1.0d
 			tasks: [{
 				id: "5266F8533351D5E1"
-				item: "gtceu:mega_canner"
+				item: "gtlcecore:mega_canner"
 				type: "item"
 			}]
 			x: 14.0d

@@ -44,7 +44,7 @@
 				}
 				{
 					id: "42A0398691BDA897"
-					item: "gtceu:sterile_cleaning_maintenance_hatch"
+					item: "gtlcecore:sterile_cleaning_maintenance_hatch"
 					type: "item"
 				}
 			]
@@ -245,7 +245,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "271AD42D98889163"
-				item: "gtceu:decay_hastener"
+				item: "gtlcecore:decay_hastener"
 				type: "item"
 			}]
 			x: 2.0d
@@ -275,7 +275,7 @@
 			size: 1.0d
 			tasks: [{
 				id: "1F71F073D091459C"
-				item: "gtceu:advanced_assembly_line"
+				item: "gtlcecore:advanced_assembly_line"
 				type: "item"
 			}]
 			x: 12.0d
@@ -324,7 +324,7 @@
 			size: 1.0d
 			tasks: [{
 				id: "30BC4BA2F6A606D5"
-				item: "gtceu:super_particle_collider"
+				item: "gtlcecore:super_particle_collider"
 				type: "item"
 			}]
 			x: 4.0d
@@ -367,7 +367,7 @@
 			size: 1.0d
 			tasks: [{
 				id: "64C7755B5517C918"
-				item: "gtceu:integrated_ore_processor"
+				item: "gtlcecore:integrated_ore_processor"
 				type: "item"
 			}]
 			x: 5.5d
@@ -381,7 +381,7 @@
 			size: 1.0d
 			tasks: [{
 				id: "6FEB78AB1D5BDDCA"
-				item: "gtceu:petrochemical_plant"
+				item: "gtlcecore:petrochemical_plant"
 				type: "item"
 			}]
 			x: 6.5d
@@ -459,7 +459,7 @@
 			id: "3B098EA4601A7827"
 			tasks: [{
 				id: "429C36800C493E79"
-				item: "gtceu:nano_forge_1"
+				item: "gtlcecore:nano_forge"
 				type: "item"
 			}]
 			x: 12.0d
@@ -492,7 +492,7 @@
 			id: "16C93F76F74CB8DB"
 			tasks: [{
 				id: "42B8B94BB1B32E83"
-				item: "gtceu:chemical_distort"
+				item: "gtlcecore:chemical_distort"
 				type: "item"
 			}]
 			x: 12.0d
@@ -506,7 +506,7 @@
 			size: 1.0d
 			tasks: [{
 				id: "30D756E7388280AB"
-				item: "gtceu:superconducting_electromagnetism"
+				item: "gtlcecore:superconducting_electromagnetism"
 				type: "item"
 			}]
 			x: 11.0d

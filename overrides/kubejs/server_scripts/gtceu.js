@@ -1,6 +1,21 @@
 //priority: 96
 ServerEvents.recipes((event) => {
-    const tiers = ["ulv", "lv", "mv", "hv", "ev", "iv", "luv", "zpm", "uv", "uhv", "uev", "uiv", "uxv", "opv", "max"]
+    const tierss = [
+    ["ulv", 0],
+    ["lv", 1],
+    ["mv", 2],
+    ["hv", 3],
+    ["ev", 4],
+    ["iv", 5],
+    ["luv", 6],
+    ["zpm", 7],
+    ["uv", 8],
+    ["uhv", 9],
+    ["uev", 10],
+    ["uiv", 11],
+    ["uxv", 12],
+    ["opv", 13],
+    ["max", 14]];
     event.remove({ id: "gtceu:chemical_reactor/styrene_from_ethylbenzene" })
     event.remove({ id: "gtceu:large_chemical_reactor/styrene_from_ethylbenzene" })
     event.remove({ id: "gtceu:chemical_reactor/vinyl_chloride_from_ethane" })
@@ -9221,23 +9236,6 @@ ServerEvents.recipes((event) => {
         .EUt(GTValues.VA[GTValues.UXV])
         .itemOutputs("gtlcecore:supracausal_mainframe")
         .duration(400)
-        const tierss = [
-    ["ulv", 0],
-    ["lv", 1],
-    ["mv", 2],
-    ["hv", 3],
-    ["ev", 4],
-    ["iv", 5],
-    ["luv", 6],
-    ["zpm", 7],
-    ["uv", 8],
-    ["uhv", 9],
-    ["uev", 10],
-    ["uiv", 11],
-    ["uxv", 12],
-    ["opv", 13],
-    ["max", 14]
-];
     tierss.forEach((c) => {
         gtr.packer("gtlcecore:" + c[0] + "_universal_circuit")
             .itemInputs("#gtceu:circuits/" + c[0])
@@ -17290,4 +17288,38 @@ ServerEvents.recipes((event) => {
         .itemOutputs("1x gtceu:sulfur_dust")
         .duration(120)
         .EUt(30)
+
+    const buffer_tiers = [
+    ["ev", 4],
+    ["iv", 5],
+    ["luv", 6],
+    ["zpm", 7],
+    ["uv", 8],
+    ["uhv", 9],
+    ["uev", 10],
+    ["uiv", 11],
+    ["uxv", 12],
+    ["opv", 13]
+];
+
+    buffer_tiers.forEach(i => {
+        event.shaped("gtlcecore:" + i[0] + "_buffer", [
+        "AB ",
+        "CD "
+    ], {
+        A: "gtceu:"+i[0]+"_machine_hull",
+        B: "gtceu:"+i[0]+"_electric_pump",
+        C: "#gtceu:circuits/"+i[0],
+        D: "gtceu:"+i[0]+"_conveyor_module"
+    })})
+
+    event.shaped("gtlcecore:max_buffer", [
+        "AB ",
+        "CD "
+    ], {
+        A: "gtceu:max_machine_hull",
+        B: "gtlcecore:max_electric_pump",
+        C: "#gtceu:circuits/max",
+        D: "gtlcecore:max_conveyor_module"})
+
 })

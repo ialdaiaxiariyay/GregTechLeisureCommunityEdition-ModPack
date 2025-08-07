@@ -522,7 +522,7 @@
 			size: 2.0d
 			tasks: [{
 				id: "2C69C2E860BDFB1B"
-				item: "gtceu:blaze_blast_furnace"
+				item: "gtlcecore:blaze_blast_furnace"
 				type: "item"
 			}]
 			x: 4.0d
@@ -537,7 +537,7 @@
 			size: 2.0d
 			tasks: [{
 				id: "7D98A152EE340D0E"
-				item: "gtceu:dimensionally_transcendent_steam_boiler"
+				item: "gtlcecore:dimensionally_transcendent_steam_boiler"
 				type: "item"
 			}]
 			x: 2.0d
@@ -653,7 +653,7 @@
 			size: 1.0d
 			tasks: [{
 				id: "10E4CFCD88F31954"
-				item: "gtceu:disassembly"
+				item: "gtlcecore:disassembly"
 				type: "item"
 			}]
 			x: 14.0d
@@ -666,7 +666,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "2599970FD2D9C38B"
-				item: "gtceu:fission_reactor"
+				item: "gtlcecore:fission_reactor"
 				type: "item"
 			}]
 			x: 0.0d

@@ -15,54 +15,13 @@
 	quests: [
 		{
 			dependencies: ["48925ECBCC5D268D"]
-			description: ["借助了命令方块的力量"]
+			description: ["占位符"]
 			id: "67A81E3F7E247521"
-			tasks: [
-				{
-					id: "15D75BB0BB713D68"
-					item: {
-						Count: 1
-						id: "gtlcecore:magnetohydrodynamicallyconstrainedstarmatter_helmet"
-						tag: {
-							Damage: 0
-						}
-					}
-					type: "item"
-				}
-				{
-					id: "052DD5E4314038CA"
-					item: {
-						Count: 1
-						id: "gtlcecore:magnetohydrodynamicallyconstrainedstarmatter_chestplate"
-						tag: {
-							Damage: 0
-						}
-					}
-					type: "item"
-				}
-				{
-					id: "414803F9595967FD"
-					item: {
-						Count: 1
-						id: "gtlcecore:magnetohydrodynamicallyconstrainedstarmatter_leggings"
-						tag: {
-							Damage: 0
-						}
-					}
-					type: "item"
-				}
-				{
-					id: "633F0A3296C38CD5"
-					item: {
-						Count: 1
-						id: "gtlcecore:magnetohydrodynamicallyconstrainedstarmatter_boots"
-						tag: {
-							Damage: 0
-						}
-					}
-					type: "item"
-				}
-			]
+			tasks: [{
+				id: "11EC7C0D1B8A4952"
+				item: "gtlcecore:yohanemashiro"
+				type: "item"
+			}]
 			x: 5.0d
 			y: 0.5d
 		}
@@ -163,7 +122,7 @@
 			id: "7C4AD33299386B47"
 			tasks: [{
 				id: "29CE180A8857179D"
-				item: "gtceu:gravitation_shockburst"
+				item: "gtlcecore:gravitation_shockburst"
 				type: "item"
 			}]
 			x: 7.0d
@@ -185,7 +144,7 @@
 			id: "30907D7231913ACB"
 			tasks: [{
 				id: "46A19A3E3D3CF4A9"
-				item: "gtceu:create_computation"
+				item: "gtlcecore:create_computation"
 				type: "item"
 			}]
 			x: 5.0d
@@ -214,7 +173,7 @@
 			id: "2F9392EF05DB11EF"
 			tasks: [{
 				id: "7AB830407E68C7F1"
-				item: "gtceu:create_aggregation"
+				item: "gtlcecore:create_aggregation"
 				type: "item"
 			}]
 			x: 8.0d
